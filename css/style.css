@@ -1,0 +1,462 @@
+body {
+	background:#3c3c3c;
+	width:100%;
+	font-family:proxima-nova;
+	font-weight:bold;
+	color:white;
+	margin:0;
+	-webkit-font-smoothing: antialiased;
+}
+h1 {
+	font-family:quatro;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	color:white;
+}
+h2 {
+	margin:0;
+}
+p {
+	margin:0;
+	color:gray;
+	-webkit-font-smoothing: antialiased;
+}
+.curtains {
+	padding:0;
+	margin:0;
+}
+.curtains .curtainObject {
+	list-style:none;
+	width:100%;
+	height:100%;
+	position:absolute;
+	top:0;
+	left:0;
+}
+.curtains #cover {
+	z-index:1;
+	background:whitesmoke;
+	width:100%;
+	height:100%;
+}
+.curtains #cover p {
+	color:black;
+	width:50%;
+	margin:auto;
+	font-size:15px;
+	margin-top:15px;
+}
+.curtains #cover #coverContainer {
+	border: 1px solid gray;
+	background:whitesmoke;
+	position:absolute;
+	top:30px;
+	bottom:30px;
+	left:30px;
+	right:30px;
+}
+.curtains #cover h1#bklynr {
+	position:relative;
+	width:100%;
+	font-size:40px;
+	color:gray;
+}
+.curtains #cover h2 {
+	text-align:center;
+	margin-top:10%;
+	color:black;
+}
+.curtains #cover #curtainOpen {
+	width:100%;
+	text-align:center;
+	cursor:pointer;
+}
+.curtains #cover #curtainOpen img {
+	width:40px;
+	margin:20px 0;
+	transform:rotate(90deg);
+	-ms-transform:rotate(90deg); /* IE 9 */
+	-moz-transform:rotate(90deg); /* Firefox */
+	-webkit-transform:rotate(90deg); /* Safari and Chrome */
+	-o-transform:rotate(90deg); /* Opera */
+}
+.curtains #interactive {
+	z-index:0;
+	display:none;
+}
+h1#bklynr {
+	position:absolute;
+	width:100%;
+	text-align:center;
+	margin-top:10px;
+	-webkit-font-smoothing: antialiased;
+}
+#neighborhoodInfo {
+	top:0;
+	right:0;
+	position:absolute;
+	padding:50px;
+}
+#map {
+	width:100%;
+	margin:auto;
+	max-width:1400px;
+	overflow:hidden;
+}
+#map #svgMap {
+	width:200%;
+	min-height:400px;
+	margin:auto;
+	margin-left:-50%;
+	margin-top:-3%;
+}
+#map svg #test {
+	fill:red;
+}
+#map svg .neighborhood, #map svg .neighborhoods, #map svg .park {
+	stroke:1pt;
+	fill-rule:nonzero;
+	fill:rgb(40%;40%;40%);
+	fill-opacity:1;
+	stroke-width:0.5;
+	stroke-linecap:butt;
+	stroke-linejoin:miter;
+	stroke:rgb(40.392157%,40.392157%,40.392157%);
+}
+#map svg svg .active {
+	stroke:white;
+	stroke-width:2.5;
+}
+#map svg .park {
+	fill:rgb(20.392157%,20.392157%,20.392157%);
+}
+#map svg .neighborhoods {
+	fill:rgb(0,120,120);
+}
+#controller {
+	position: absolute;
+	top: 0;
+	height: 100%;
+	width: 30%;
+	opacity:0;
+}
+#controller ol#viewAs {
+	font-size:13px;	
+	list-style:none;
+	padding:10px 0;
+	position:absolute;
+	left:105%;
+	top:0;
+	width:50px;
+}
+#controller ol#viewAs li {
+	width:96%;
+	float:left;
+	text-align:left;
+	padding-left:2%;
+	cursor:arrow;
+	text-align:center;
+	margin:5px 0;
+}
+#controller ol#viewAs .button {
+	width:22px;
+	height:23px;
+	margin:auto;
+}
+#controller ol#viewAs .button:hover {
+	background-position: top;
+}
+#controller ol#viewAs #per {
+	background: url('../images/per.png');
+	background-size: 100%;
+}
+#controller ol#viewAs #total {
+	background: url('../images/total.png');
+	background-size: 100%;
+	float:right;
+}
+#controller h2 {
+	text-align:center;
+	font-size:13px;
+	width:90%;
+	margin:10px 0;
+	padding-left:5%;
+	padding-right:5%;
+	opacity:0;
+}
+#controller ul {
+	text-align: center;
+	padding:0;
+	margin:0;
+	width:92%;
+	float:left;
+}
+#controller #years li {
+	display:inline-block;
+	width:100%;
+	font-size:.7em;
+	text-align:left;
+	padding-left:10px;
+}
+#controller #years li span.text {
+	opacity:0;
+}
+#controller ul li:nth-child(odd) {
+	background:url('../images/bg.png');
+}
+#controller ul li.active {
+	background:#7f7f7f;
+}
+ul#swipe {
+	display:none;
+	padding:0;
+	margin:0;
+	list-style:none;
+	width:100%;
+}
+ul#swipe li {
+	width:15px;
+	padding:10px;
+	cursor:pointer;
+}
+ul#swipe li img {
+	width:100%;
+}
+#swipe li#left img {
+	-moz-transform: scaleX(-1);
+	-o-transform: scaleX(-1);
+	-webkit-transform: scaleX(-1);
+	transform: scaleX(-1);
+}
+#controller li:hover {
+	cursor:pointer;
+}
+#controller #slider {
+	width:2%;
+	height:100%;
+	top:0;
+	float:right;
+	border-radius:20px;
+	background:#484848 url('../images/bg2.png');
+	background-repeat:no-repeat;
+}
+#controller #slider #sliderButton {
+	background:#d2d2d3;
+	width:250%;
+	border-radius:50%;
+	padding-bottom:250%;
+	cursor:pointer;
+	margin-left:-75%;
+	box-shadow:0px 0px 10px #b3b3b3;
+	float:left;
+}
+#controller ul li .totalCircleContainer {
+	width:80%;
+	float:right;
+	color:#d2d2d2;
+	-webkit-font-smoothing: antialiased;
+	text-align:right;
+	padding-right:2%;
+}
+#controller ul li .totalCircle {
+	background:white;
+	width:10px;
+	padding-bottom:10px;
+	border-radius:50%;
+	position:relative;
+	float:left;
+}
+#neighborhoodText {
+	width: 25%;
+	min-width: 300;
+	position: absolute;
+	bottom: 30px;
+	right: 30px;
+	padding: 20px;
+	background: url('../imag es/bg.png');
+	opacity: 1;
+}
+#neighborhoodText #neighborhoodTextMostMentioned li:hover {
+	color:white;
+}
+#neighborhoodText p, #neighborhoodText li {
+	color:#d2d2d2;
+	font-size:13px;
+}
+#neighborhoodText h2, #neighborhoodText h3, #neighborhoodText h4 {
+	text-align:center;
+	width:100%;
+	color:white;
+}
+#neighborhoodText h2 {
+	font-size:19px;
+}
+#neighborhoodText h3 {
+	font-size:16px;
+	margin:10px 0;
+}
+#neighborhoodText h4 {
+	font-size:14px;
+	margin:2px 0px;
+}
+#neighborhoodText .shakers {
+	width:50%;
+	float:left;
+}
+#neighborhoodText .negative {
+	color:#ffb8b8;
+}
+#neighborhoodText .positive {
+	color:#a2ffc3;
+}
+#neighborhoodText #neighborhoodTextShakers.invisible {
+	display:none;
+}
+#neighborhoodText a {
+	text-decoration:none;
+	color:white;
+}
+
+
+@media (max-width: 1024px) {
+	#controller ul li {
+		font-size:.5em;
+	}
+	#controller h2 {
+		font-size:11px;
+	}
+	.curtains #cover p {
+		width:80%;
+	}
+}
+@media (max-width: 768px) {
+	body {
+		overflow:visible;
+	}
+	#controller ul li img {
+		width:7px;
+	}
+	ul#swipe {
+		width:100%;
+		position:absolute;
+		top:30%;
+		display:block;
+	}
+	ul#swipe li {
+		position:absolute;
+	}
+	ul#swipe li#left {
+		left:10px;
+		opacity:.25;
+	}
+	ul#swipe li#right {
+		right:10px;
+	}
+	#neighborhoodInfo {
+		position:relative;
+		padding:0 20px;
+		top:-40px;
+		height:50px;
+	}
+	#controller {
+		position: relative;
+		top: 0;
+		height: auto;
+		width: 100%;
+	}
+	#controller h2 {
+		font-size:16px;
+	}
+	#controller ul {
+		width:100%;	
+	}
+	#controller ul#years li {
+		display:inline-block;
+		width:90%;
+		font-size:13px;
+		text-align:left;
+		height:15px;
+		line-height:13px;
+		padding:10px 5%;
+	}
+	#controller #slider {
+		display:none;
+	}
+	#neighborhoodText {
+		width:90%;
+		position:relative;
+		padding:10px 5%;
+		right:0px;
+		min-width:0;
+	}
+	#neighborhoodText .shakers {
+		display:inline-block;
+		float:none;
+		width:45%;
+	}
+	.curtains #cover #coverContainer {
+		top:20px;
+		bottom:20px;
+		left:20px;
+		right:20px;
+	}
+	.curtains #cover p {
+		width:80%;
+		text-align:left;
+		font-size:13px;
+	}
+	#controller ol#viewAs {
+		position:relative;
+		left:0;
+		top:0;
+		width:150px;
+		margin:auto;
+		clear:both;
+		height:23px;
+	}
+	#controller ol#viewAs li {
+		text-align:center;
+		margin:5px 0;
+		padding-top:0px;
+		width:75px;
+		overflow:hidden;
+		height:22px;
+	}
+}
+@media (max-width: 569px) {
+	#controller ul li {
+		font-size:.5em;
+	}
+	#map svg {
+		width: 200%;
+		margin-left: -45%;
+	}
+	h2 {
+		font-size:16px;
+	}
+	p {
+		font-size:13px;
+	}
+	#neighborhoodText .shakers {
+		width:100%;
+	}
+	.curtains #cover #coverContainer {
+		width:100%;
+		position:relative;
+		border:none;
+		top:0;
+		bottom:0;
+		left:0;
+		right:0;
+	}
+	.curtains #cover p {
+		width:90%;
+		text-align:left;
+		font-size:12px;
+		margin-top:7px;
+	}
+	.curtains #cover h2 {
+		font-size:19px;
+		margin-top:0px;
+	}
+}

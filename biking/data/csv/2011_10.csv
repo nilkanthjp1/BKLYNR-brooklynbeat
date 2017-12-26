@@ -1,0 +1,572 @@
+[
+	{
+		"intersection":"brighton beach avenue and coney island avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"mermaid avenue and west 33 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"ocean parkway",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"neptune avenue and west 5 street",
+		"injuries":2,
+		"deaths":0
+	},
+	{
+		"intersection":"surf avenue and west 17 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"avenue r and coney island avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"avenue r and ocean parkway",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"avenue u and nostrand avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"avenue w and nostrand avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"east 18 street and voorhies avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"15 avenue and 73 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"16 avenue and 65 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"18 avenue and 72 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"79 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"kings highway and west 12 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"kings highway and new york avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"12 avenue and 44 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"49 street and ft hamilton parkway",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"52 street and new utrecht avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"avenue j and east 4 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"ocean parkway",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"beverly road and east 4 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"dahill road and minna street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"avenue d and east 56 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"clarendon road and east 54 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"and farragut road",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"east 51 street and linden boulevard",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"east 53 street and kings highway",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"east 98 street and rutland road",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"tilden avenue and veronica place",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"4 avenue and 68 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"66 street and 7 avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"68 street and shore road",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"avenue j and east 88 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"flatlands avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"east 108 street and glenwood road",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"east 93 street and glenwood road",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"avenue h and coney island avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"avenue h and nostrand avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"avenue n and coney island avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"avenue o and ocean avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"cortelyou road and east 17 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"cortelyou road and flatbush avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"ditmas avenue and east 21 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"east 2 street and mc donald avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"foster avenue and ocean parkway",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"albany avenue and empire boulevard",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"new york avenue",
+		"injuries":3,
+		"deaths":0
+	},
+	{
+		"intersection":"kingston avenue and midwood street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"nostrand avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"president street and utica avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"15 street and 3 avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"16 street and prospect park west",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"3 avenue and 55 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"39 street and 4 avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"4 avenue and 42 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"4 avenue and 60 street",
+		"injuries":2,
+		"deaths":0
+	},
+	{
+		"intersection":"5 avenue and 54 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"60 street and 7 avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"dumont avenue and tapscott street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"lott avenue and osborn street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"pitkin avenue and thatford avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"atkins avenue and blake avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"atlantic avenue and pennsylvania avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"belmont avenue and pennsylvania avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"conduit avenue and liberty avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"conduit boulevard and crescent street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"and forbell street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"and van siclen avenue",
+		"injuries":2,
+		"deaths":0
+	},
+	{
+		"intersection":"hegeman avenue and new jersey avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"hendrix street and pitkin avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"livonia avenue and warwick street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"and smith street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"smith street and union street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"smith street and warren street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"and nostrand avenue",
+		"injuries":3,
+		"deaths":0
+	},
+	{
+		"intersection":"bedford avenue and saint johns place",
+		"injuries":2,
+		"deaths":0
+	},
+	{
+		"intersection":"bergen street and utica avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"buffalo avenue and eastern parkway",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"park place and washington avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"saint marks avenue and vanderbilt avenue",
+		"injuries":2,
+		"deaths":0
+	},
+	{
+		"intersection":"5 street and 8 avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"6 avenue and 9 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"bedford avenue and fulton street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"classon avenue and myrtle avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"dekalb avenue and spencer street",
+		"injuries":2,
+		"deaths":0
+	},
+	{
+		"intersection":"gates avenue and nostrand avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"myrtle avenue and throop avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"arion place and broadway",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"dekalb avenue and reid avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"central avenue and covert street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"evergreen avenue and troutman street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"george street and wilson avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"irving avenue and jefferson street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"adams street and prospect street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"adams street and tillary street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"atlantic avenue and court street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"court street and livingston street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"ashland place and willoughby street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"cambridge place and gates avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"and lafayette avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"fulton street and grand avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"fulton street and lafayette avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"fulton street and saint felix street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"greene avenue and vanderbilt avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"hall street and willoughby avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"myrtle avenue and washington avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"waverly avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"boerum street and white street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"broadway and flushing avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"flushing avenue and",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"lorimer street and meserole street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"meserole street and morgan avenue",
+		"injuries":0,
+		"deaths":1
+	},
+	{
+		"intersection":"metropolitan avenue and roebling street",
+		"injuries":1,
+		"deaths":0
+	}
+]

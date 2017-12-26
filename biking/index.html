@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
+    <title>Mean Streets</title>
+    
+    <link rel="stylesheet" href="css/style.css" type="text/css" />
+    <link href='http://api.tiles.mapbox.com/mapbox.js/v1.0.2/mapbox.css' rel='stylesheet' />
+	
+    <script src='http://api.tiles.mapbox.com/mapbox.js/v1.0.2/mapbox.js'></script>
+	
+	<script type="text/javascript" src="//use.typekit.net/zso2ovy.js"></script>
+	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+</head>
+
+  <body data-map="map">
+    <div id="content">
+
+      <div id="about">
+      	<div id="articleLogoDiv">
+      		<span id="articleLogoSpan">
+				<h1 id="articleLogo"><a href="/">BKLYNR</a></h1>	
+				<p class="issueAndIssueDate"><a href="http://bklynr.com/issues/issue-5/">Issue 5 | June 6, 2013</a></p>	
+			</span>
+		</div>
+        <h1>Mean Streets</h1>
+        <h2>An interactive map by <a href="http://www.nilkanthpatel.com">Nilkanth Patel</a>.</h2>
+        <p>Citi Bike NYC is a big deal, but we don't want you to die. Here's a look at the most dangerous intersections for cyclists in Brooklyn.</p>
+
+
+      </div>
+    </div>
+
+    <div id="map-ui" class="layers" data-control="switcher">
+    	<li id="citibikeStations"><a href="#" onclick="loadCitibike()">Citi Bike Stations</a></li>
+    </div>
+
+    <div id="map" class="map">
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

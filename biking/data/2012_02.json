@@ -1,0 +1,412 @@
+[
+	{
+		"intersection":"brighton 10 street and",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"mermaid avenue and stillwell avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"coney island avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"neptune avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"east 18 street and voorhies avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"east 21 street and kings highway",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"avenue u and mc donald avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"and cropsey avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"avenue m and flatbush avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"avenue and quentin road",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"44 street",
+		"injuries":2,
+		"deaths":0
+	},
+	{
+		"intersection":"and new utrecth avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"new utrecth avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"avenue k and east 9 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"avenue n and mc donald avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"caton avenue and east 3 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"chester avenue and louisa street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"ditmas avenue and mc donald",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"avenue d and east 38 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"avenue d and east 46 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"and east 51 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"erasmus street and lloyd street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"74 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"3 avenue and 65 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"3 avenue and 86 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"3 avenue and bay ridge avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"7 avenue and ovington avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"east 83 street and foster avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"and williams avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"ocean avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"east 17 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"beverley road and stratford road",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"clarkson avenue and flatbush avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"cortelyou road and westminster road",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"bedford avenue and empire boulevard",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"bedford avenue and montgomery street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"nostrand avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"19 street and 5 avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"5 avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"56 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"41 street and 7 avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"pitkin avenue and stone avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"and vermont street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"baltic street and smith street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"court street and kane street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"richards street and seabring street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"brooklyn avenue and eastern parkway",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"park place and washington avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"saint marks avenue and washington avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"st johns place and underhill avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"1 street and 5 avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"and 7 avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"8 avenue and union street",
+		"injuries":2,
+		"deaths":0
+	},
+	{
+		"intersection":"flushing avenue and franklin avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"kent avenue and myrtle avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"and tompkins avenue",
+		"injuries":5,
+		"deaths":0
+	},
+	{
+		"intersection":"marcus garvey boulevard and myrtle avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"myrtle avenue and spencer street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"lexington avenue and patchen avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"and boerum place",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"bridge street and front street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"cranberry street and orange street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"flatbush avenue extension",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"gold street and sands street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"clinton street and fulton street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"fulton street and south elliott place",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"gates avenue and vanderbilt avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"lafayette avenue and washington avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"waverly avenue and willoughby avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"berry street and metropolitan avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"broadway and heyward street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"graham avenue and scholes street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"grand street and humboldt street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"metropolitan avenue",
+		"injuries":2,
+		"deaths":0
+	},
+	{
+		"intersection":"hewes street and south 3 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"hewes street and south 5 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"keap street and wythe avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"conselyea street and humboldt street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"conselyea street and union avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"franklin street and meserole avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"and meeker avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"metropolitan avenue and union avenue",
+		"injuries":1,
+		"deaths":0
+	}
+]

@@ -1,0 +1,352 @@
+[
+	{
+		"intersection":"avenue z and hubbard street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"bay 52 street and shore parkway",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"and west 17 street",
+		"injuries":2,
+		"deaths":0
+	},
+	{
+		"intersection":"avenue t and east 22 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"avenue u and mc donald avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"east 2 street and kings highway",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"16 avenue and 64 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"benson avenue",
+		"injuries":4,
+		"deaths":0
+	},
+	{
+		"intersection":"bay parkway and benson avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"bay parkway and shore parkway",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"bay ridge parkway and new utrecht avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"flatbush avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"east 59 street and glenwood road",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"13 avenue and 46 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"15 avenue and 50 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"18 avenue and 56 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"mc donald avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"church avenue and ocean parkway",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"east 23 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"clarendon road and",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"clarendon road and schenectady avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"clarkson avenue and remsen avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"linden boulevard and rogers avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"nostrand avenue and snyder avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"and flatlands avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"east 85 street and flatlands avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"coney island avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"and east 14 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"bedford avenue and winthrop street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"franklin avenue and montgomery street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"3 avenue and 55 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"3 avenue and 60 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"5 avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"rockaway avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"rockaway avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"flatlands avenue",
+		"injuries":2,
+		"deaths":0
+	},
+	{
+		"intersection":"and jamaica avenue",
+		"injuries":2,
+		"deaths":0
+	},
+	{
+		"intersection":"pennsylvania avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"avenue and new jersey avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"and van sinderen avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"miller avenue and pitkin avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"degraw street and smith street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"vanderbilt avenue",
+		"injuries":2,
+		"deaths":0
+	},
+	{
+		"intersection":"park place and vanderbilt avenue",
+		"injuries":2,
+		"deaths":0
+	},
+	{
+		"intersection":"plaza st east and vanderbilt avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"prospect place and vanderbilt avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"5 avenue and 5 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"6 avenue and union street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"albany avenue and fulton street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"bedford avenue and myrtle avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"classon avenue and madison street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"dekalb avenue and kent avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"dekalb avenue and tompkins avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"flushing avenue and tompkins avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"columbus place and herkimer street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"bushwick avenue and",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"atlantic avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"carlton avenue and de kalb avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"clinton avenue and fulton street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"cumberland street and flushing avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"emerson place and willoughby avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"flushing avenue and",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"park avenue",
+		"injuries":3,
+		"deaths":0
+	},
+	{
+		"intersection":"beaver street and flushing avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"bedford avenue and south 9 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"flushing avenue and throop avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"graham avenue and varet street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"hewes street and south 4 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"powers street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"meeker avenue and morgan avenue",
+		"injuries":1,
+		"deaths":0
+	}
+]

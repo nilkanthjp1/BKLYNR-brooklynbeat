@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript" src="./nba_displayTopAvg.js"></script>
+
+<style>
+
+body {
+font-family:Helvetica;
+font-weight:bold;
+width:100%;
+}
+
+h1 {
+	font-size:16px;
+	text-align:center;
+	margin-top:20px;
+}
+
+#positionCircles {
+	width:70%;
+}
+
+.red {
+	color:red;
+}
+
+.oneTeam {
+	float:left;
+	padding:20px;
+}
+
+.positionGraph {
+	height:400px;
+	width:100%;
+	font-size:10px;
+}
+.positionGraph .yearBreakdown {
+	width:5.5%;
+	height:100%;
+	text-align:center;
+	font-size:14px;
+	margin-right:10px;
+	float:left;
+}
+.positionGraph .yearBreakdown div {
+	width:33%;
+	height:90%;
+	float:left;
+	margin-bottom:10px;
+	overflow:hidden;
+}
+.positionGraph .yearBreakdown div div {
+	float:left;
+	width:100%;
+}
+.positionGraph .yearBreakdown .low  {
+
+}
+.positionGraph .yearBreakdown .avg {
+
+}
+.positionGraph .yearBreakdown .high {
+
+}
+.positionGraph .yearBreakdown .low .lowGraph {
+	background:red;
+}
+.positionGraph .yearBreakdown .avg .avgGraph {
+	background:orange;
+}
+.positionGraph .yearBreakdown .high .highGraph {
+	background:green;
+}
+
+
+
+</style>
+
+</head>
+<body>
+
+<h1>Point Guards</h2>
+<div id="pg" class="positionGraph"></div><br><br>
+
+<h1>Shooting Guards</h2>
+<div id="sg" class="positionGraph"></div><br><br>
+
+<h1>Small Forwards</h2>
+<div id="sf" class="positionGraph"></div><br><br>
+
+<h1>Power Forwards</h2>
+<div id="pf" class="positionGraph"></div><br><br>
+
+<h1>Centers</h2>
+<div id="c" class="positionGraph"></div><br><br>
+
+</body>
+</html>

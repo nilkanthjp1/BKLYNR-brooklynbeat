@@ -1,0 +1,866 @@
+{
+    "1981": [
+        {
+            "name": "Coney Island",
+            "formattedName": "coneyIsland",
+            "count": "107"
+        },
+        {
+            "name": "Brooklyn Heights",
+            "formattedName": "brooklynHeights",
+            "count": "98"
+        },
+        {
+            "name": "Bedford Stuyvesant",
+            "formattedName": "bedfordStuyvesant",
+            "count": "79"
+        },
+        {
+            "name": "Williamsburg",
+            "formattedName": "williamsburg",
+            "count": "71"
+        },
+        {
+            "name": "Brownsville",
+            "formattedName": "brownsville",
+            "count": "39"
+        }
+    ],
+    "1982": [
+        {
+            "name": "Coney Island",
+            "formattedName": "coneyIsland",
+            "count": "104"
+        },
+        {
+            "name": "East Flatbush",
+            "formattedName": "flatbush",
+            "count": "100"
+        },
+        {
+            "name": "Brooklyn Heights",
+            "formattedName": "brooklynHeights",
+            "count": "95"
+        },
+        {
+            "name": "Bedford Stuyvesant",
+            "formattedName": "bedfordStuyvesant",
+            "count": "94"
+        },
+        {
+            "name": "Williamsburg",
+            "formattedName": "williamsburg",
+            "count": "94"
+        }
+    ],
+    "1983": [
+        {
+            "name": "Coney Island",
+            "formattedName": "coneyIsland",
+            "count": "116"
+        },
+        {
+            "name": "Brooklyn Heights",
+            "formattedName": "brooklynHeights",
+            "count": "112"
+        },
+        {
+            "name": "Williamsburg",
+            "formattedName": "williamsburg",
+            "count": "76"
+        },
+        {
+            "name": "Fort Greene",
+            "formattedName": "fortGreene",
+            "count": "49"
+        },
+        {
+            "name": "Brownsville",
+            "formattedName": "brownsville",
+            "count": "48"
+        }
+    ],
+    "1984": [
+        {
+            "name": "Brooklyn Heights",
+            "formattedName": "brooklynHeights",
+            "count": "126"
+        },
+        {
+            "name": "Navy Yard",
+            "formattedName": "navyYard",
+            "count": "100"
+        },
+        {
+            "name": "Bedford Stuyvesant",
+            "formattedName": "bedfordStuyvesant",
+            "count": "98"
+        },
+        {
+            "name": "Williamsburg",
+            "formattedName": "williamsburg",
+            "count": "76"
+        },
+        {
+            "name": "Fort Greene",
+            "formattedName": "fortGreene",
+            "count": "41"
+        }
+    ],
+    "1985": [
+        {
+            "name": "Brooklyn Heights",
+            "formattedName": "brooklynHeights",
+            "count": "105"
+        },
+        {
+            "name": "Crown Heights",
+            "formattedName": "crownHeights",
+            "count": "100"
+        },
+        {
+            "name": "Bedford Stuyvesant",
+            "formattedName": "bedfordStuyvesant",
+            "count": "93"
+        },
+        {
+            "name": "Williamsburg",
+            "formattedName": "williamsburg",
+            "count": "72"
+        },
+        {
+            "name": "Fort Greene",
+            "formattedName": "fortGreene",
+            "count": "35"
+        }
+    ],
+    "1986": [
+        {
+            "name": "Coney Island",
+            "formattedName": "coneyIsland",
+            "count": "240"
+        },
+        {
+            "name": "Brooklyn Heights",
+            "formattedName": "brooklynHeights",
+            "count": "164"
+        },
+        {
+            "name": "Bedford Stuyvesant",
+            "formattedName": "bedfordStuyvesant",
+            "count": "136"
+        },
+        {
+            "name": "Williamsburg",
+            "formattedName": "williamsburg",
+            "count": "79"
+        },
+        {
+            "name": "Fort Greene",
+            "formattedName": "fortGreene",
+            "count": "62"
+        }
+    ],
+    "1987": [
+        {
+            "name": "Bedford Stuyvesant",
+            "formattedName": "bedfordStuyvesant",
+            "count": "134"
+        },
+        {
+            "name": "Brooklyn Heights",
+            "formattedName": "brooklynHeights",
+            "count": "126"
+        },
+        {
+            "name": "Crown Heights",
+            "formattedName": "crownHeights",
+            "count": "89"
+        },
+        {
+            "name": "Park Slope",
+            "formattedName": "parkSlope",
+            "count": "87"
+        },
+        {
+            "name": "Williamsburg",
+            "formattedName": "williamsburg",
+            "count": "76"
+        }
+    ],
+    "1988": [
+        {
+            "name": "Park Slope",
+            "formattedName": "parkSlope",
+            "count": "240"
+        },
+        {
+            "name": "Williamsburg",
+            "formattedName": "williamsburg",
+            "count": "154"
+        },
+        {
+            "name": "Bedford Stuyvesant",
+            "formattedName": "bedfordStuyvesant",
+            "count": "127"
+        },
+        {
+            "name": "Brownsville",
+            "formattedName": "brownsville",
+            "count": "68"
+        },
+        {
+            "name": "Fort Greene",
+            "formattedName": "fortGreene",
+            "count": "63"
+        }
+    ],
+    "1989": [
+        {
+            "name": "Bedford Stuyvesant",
+            "formattedName": "bedfordStuyvesant",
+            "count": "300"
+        },
+        {
+            "name": "Brooklyn Heights",
+            "formattedName": "brooklynHeights",
+            "count": "300"
+        },
+        {
+            "name": "Williamsburg",
+            "formattedName": "williamsburg",
+            "count": "220"
+        },
+        {
+            "name": "Brownsville",
+            "formattedName": "brownsville",
+            "count": "120"
+        },
+        {
+            "name": "Fort Greene",
+            "formattedName": "fortGreene",
+            "count": "69"
+        }
+    ],
+    "1990": [
+        {
+            "name": "Bensonhurst",
+            "formattedName": "bensonhurst",
+            "count": "500"
+        },
+        {
+            "name": "Brooklyn Heights",
+            "formattedName": "brooklynHeights",
+            "count": "240"
+        },
+        {
+            "name": "East New York",
+            "formattedName": "eastNewYork",
+            "count": "156"
+        },
+        {
+            "name": "East Flatbush",
+            "formattedName": "flatbush",
+            "count": "140"
+        },
+        {
+            "name": "Bedford Stuyvesant",
+            "formattedName": "bedfordStuyvesant",
+            "count": "135"
+        }
+    ],
+    "1991": [
+        {
+            "name": "Crown Heights",
+            "formattedName": "crownHeights",
+            "count": "540"
+        },
+        {
+            "name": "Coney Island",
+            "formattedName": "coneyIsland",
+            "count": "143"
+        },
+        {
+            "name": "Brooklyn Heights",
+            "formattedName": "brooklynHeights",
+            "count": "135"
+        },
+        {
+            "name": "Park Slope",
+            "formattedName": "parkSlope",
+            "count": "132"
+        },
+        {
+            "name": "Bedford Stuyvesant",
+            "formattedName": "bedfordStuyvesant",
+            "count": "131"
+        }
+    ],
+    "1992": [
+        {
+            "name": "Crown Heights",
+            "formattedName": "crownHeights",
+            "count": "600"
+        },
+        {
+            "name": "Bushwick",
+            "formattedName": "bushwick",
+            "count": "160"
+        },
+        {
+            "name": "Bedford Stuyvesant",
+            "formattedName": "bedfordStuyvesant",
+            "count": "158"
+        },
+        {
+            "name": "Park Slope",
+            "formattedName": "parkSlope",
+            "count": "144"
+        },
+        {
+            "name": "Williamsburg",
+            "formattedName": "williamsburg",
+            "count": "141"
+        }
+    ],
+    "1993": [
+        {
+            "name": "Crown Heights",
+            "formattedName": "crownHeights",
+            "count": "291"
+        },
+        {
+            "name": "Fort Greene",
+            "formattedName": "fortGreene",
+            "count": "180"
+        },
+        {
+            "name": "Park Slope",
+            "formattedName": "parkSlope",
+            "count": "165"
+        },
+        {
+            "name": "Brooklyn Heights",
+            "formattedName": "brooklynHeights",
+            "count": "158"
+        },
+        {
+            "name": "Bedford Stuyvesant",
+            "formattedName": "bedfordStuyvesant",
+            "count": "148"
+        }
+    ],
+    "1994": [
+        {
+            "name": "Bedford Stuyvesant",
+            "formattedName": "bedfordStuyvesant",
+            "count": "320"
+        },
+        {
+            "name": "Williamsburg",
+            "formattedName": "williamsburg",
+            "count": "260"
+        },
+        {
+            "name": "Crown Heights",
+            "formattedName": "crownHeights",
+            "count": "258"
+        },
+        {
+            "name": "Park Slope",
+            "formattedName": "parkSlope",
+            "count": "175"
+        },
+        {
+            "name": "East New York",
+            "formattedName": "eastNewYork",
+            "count": "158"
+        }
+    ],
+    "1995": [
+        {
+            "name": "Park Slope",
+            "formattedName": "parkSlope",
+            "count": "178"
+        },
+        {
+            "name": "Coney Island",
+            "formattedName": "coneyIsland",
+            "count": "162"
+        },
+        {
+            "name": "Brooklyn Heights",
+            "formattedName": "brooklynHeights",
+            "count": "161"
+        },
+        {
+            "name": "Bedford Stuyvesant",
+            "formattedName": "bedfordStuyvesant",
+            "count": "144"
+        },
+        {
+            "name": "Williamsburg",
+            "formattedName": "williamsburg",
+            "count": "136"
+        }
+    ],
+    "1996": [
+        {
+            "name": "Park Slope",
+            "formattedName": "parkSlope",
+            "count": "188"
+        },
+        {
+            "name": "Brooklyn Heights",
+            "formattedName": "brooklynHeights",
+            "count": "154"
+        },
+        {
+            "name": "Bedford Stuyvesant",
+            "formattedName": "bedfordStuyvesant",
+            "count": "127"
+        },
+        {
+            "name": "Williamsburg",
+            "formattedName": "williamsburg",
+            "count": "117"
+        },
+        {
+            "name": "Fort Greene",
+            "formattedName": "fortGreene",
+            "count": "78"
+        }
+    ],
+    "1997": [
+        {
+            "name": "Downtown Brooklyn",
+            "formattedName": "downtownBrooklyn",
+            "count": "280"
+        },
+        {
+            "name": "Park Slope",
+            "formattedName": "parkSlope",
+            "count": "253"
+        },
+        {
+            "name": "Brooklyn Heights",
+            "formattedName": "brooklynHeights",
+            "count": "197"
+        },
+        {
+            "name": "Bedford Stuyvesant",
+            "formattedName": "bedfordStuyvesant",
+            "count": "167"
+        },
+        {
+            "name": "Williamsburg",
+            "formattedName": "williamsburg",
+            "count": "151"
+        }
+    ],
+    "1998": [
+        {
+            "name": "Williamsburg",
+            "formattedName": "williamsburg",
+            "count": "360"
+        },
+        {
+            "name": "Park Slope",
+            "formattedName": "parkSlope",
+            "count": "355"
+        },
+        {
+            "name": "Coney Island",
+            "formattedName": "coneyIsland",
+            "count": "253"
+        },
+        {
+            "name": "Brooklyn Heights",
+            "formattedName": "brooklynHeights",
+            "count": "228"
+        },
+        {
+            "name": "Brownsville",
+            "formattedName": "brownsville",
+            "count": "140"
+        }
+    ],
+    "1999": [
+        {
+            "name": "Park Slope",
+            "formattedName": "parkSlope",
+            "count": "335"
+        },
+        {
+            "name": "Brooklyn Heights",
+            "formattedName": "brooklynHeights",
+            "count": "248"
+        },
+        {
+            "name": "Williamsburg",
+            "formattedName": "williamsburg",
+            "count": "188"
+        },
+        {
+            "name": "Bedford Stuyvesant",
+            "formattedName": "bedfordStuyvesant",
+            "count": "137"
+        },
+        {
+            "name": "Fort Greene",
+            "formattedName": "fortGreene",
+            "count": "122"
+        }
+    ],
+    "2000": [
+        {
+            "name": "Park Slope",
+            "formattedName": "parkSlope",
+            "count": "357"
+        },
+        {
+            "name": "East Flatbush",
+            "formattedName": "flatbush",
+            "count": "260"
+        },
+        {
+            "name": "Williamsburg",
+            "formattedName": "williamsburg",
+            "count": "248"
+        },
+        {
+            "name": "Brooklyn Heights",
+            "formattedName": "brooklynHeights",
+            "count": "239"
+        },
+        {
+            "name": "Fort Greene",
+            "formattedName": "fortGreene",
+            "count": "132"
+        }
+    ],
+    "2001": [
+        {
+            "name": "Park Slope",
+            "formattedName": "parkSlope",
+            "count": "357"
+        },
+        {
+            "name": "Williamsburg",
+            "formattedName": "williamsburg",
+            "count": "276"
+        },
+        {
+            "name": "Brooklyn Heights",
+            "formattedName": "brooklynHeights",
+            "count": "241"
+        },
+        {
+            "name": "Fort Greene",
+            "formattedName": "fortGreene",
+            "count": "161"
+        },
+        {
+            "name": "Bedford Stuyvesant",
+            "formattedName": "bedfordStuyvesant",
+            "count": "142"
+        }
+    ],
+    "2002": [
+        {
+            "name": "Park Slope",
+            "formattedName": "parkSlope",
+            "count": "333"
+        },
+        {
+            "name": "Williamsburg",
+            "formattedName": "williamsburg",
+            "count": "321"
+        },
+        {
+            "name": "Brooklyn Heights",
+            "formattedName": "brooklynHeights",
+            "count": "222"
+        },
+        {
+            "name": "Fort Greene",
+            "formattedName": "fortGreene",
+            "count": "167"
+        },
+        {
+            "name": "Bedford Stuyvesant",
+            "formattedName": "bedfordStuyvesant",
+            "count": "116"
+        }
+    ],
+    "2003": [
+        {
+            "name": "Park Slope",
+            "formattedName": "parkSlope",
+            "count": "740"
+        },
+        {
+            "name": "Williamsburg",
+            "formattedName": "williamsburg",
+            "count": "386"
+        },
+        {
+            "name": "Brooklyn Heights",
+            "formattedName": "brooklynHeights",
+            "count": "233"
+        },
+        {
+            "name": "Fort Greene",
+            "formattedName": "fortGreene",
+            "count": "184"
+        },
+        {
+            "name": "Bedford Stuyvesant",
+            "formattedName": "bedfordStuyvesant",
+            "count": "164"
+        }
+    ],
+    "2004": [
+        {
+            "name": "Park Slope",
+            "formattedName": "parkSlope",
+            "count": "376"
+        },
+        {
+            "name": "Williamsburg",
+            "formattedName": "williamsburg",
+            "count": "327"
+        },
+        {
+            "name": "Brooklyn Heights",
+            "formattedName": "brooklynHeights",
+            "count": "212"
+        },
+        {
+            "name": "Fort Greene",
+            "formattedName": "fortGreene",
+            "count": "173"
+        },
+        {
+            "name": "Bedford Stuyvesant",
+            "formattedName": "bedfordStuyvesant",
+            "count": "156"
+        }
+    ],
+    "2005": [
+        {
+            "name": "Park Slope",
+            "formattedName": "parkSlope",
+            "count": "449"
+        },
+        {
+            "name": "Williamsburg",
+            "formattedName": "williamsburg",
+            "count": "435"
+        },
+        {
+            "name": "Fort Greene",
+            "formattedName": "fortGreene",
+            "count": "248"
+        },
+        {
+            "name": "Bedford Stuyvesant",
+            "formattedName": "bedfordStuyvesant",
+            "count": "171"
+        },
+        {
+            "name": "Brownsville",
+            "formattedName": "brownsville",
+            "count": "140"
+        }
+    ],
+    "2006": [
+        {
+            "name": "Park Slope",
+            "formattedName": "parkSlope",
+            "count": "435"
+        },
+        {
+            "name": "Williamsburg",
+            "formattedName": "williamsburg",
+            "count": "382"
+        },
+        {
+            "name": "Fort Greene",
+            "formattedName": "fortGreene",
+            "count": "249"
+        },
+        {
+            "name": "Bedford Stuyvesant",
+            "formattedName": "bedfordStuyvesant",
+            "count": "178"
+        },
+        {
+            "name": "Clinton Hill",
+            "formattedName": "clintonHill",
+            "count": "88"
+        }
+    ],
+    "2007": [
+        {
+            "name": "Williamsburg",
+            "formattedName": "williamsburg",
+            "count": "442"
+        },
+        {
+            "name": "Park Slope",
+            "formattedName": "parkSlope",
+            "count": "432"
+        },
+        {
+            "name": "Coney Island",
+            "formattedName": "coneyIsland",
+            "count": "400"
+        },
+        {
+            "name": "Fort Greene",
+            "formattedName": "fortGreene",
+            "count": "311"
+        },
+        {
+            "name": "Bedford Stuyvesant",
+            "formattedName": "bedfordStuyvesant",
+            "count": "146"
+        }
+    ],
+    "2008": [
+        {
+            "name": "Park Slope",
+            "formattedName": "parkSlope",
+            "count": "880"
+        },
+        {
+            "name": "Brooklyn Heights",
+            "formattedName": "brooklynHeights",
+            "count": "520"
+        },
+        {
+            "name": "Williamsburg",
+            "formattedName": "williamsburg",
+            "count": "492"
+        },
+        {
+            "name": "Fort Greene",
+            "formattedName": "fortGreene",
+            "count": "416"
+        },
+        {
+            "name": "Bedford Stuyvesant",
+            "formattedName": "bedfordStuyvesant",
+            "count": "177"
+        }
+    ],
+    "2009": [
+        {
+            "name": "Park Slope",
+            "formattedName": "parkSlope",
+            "count": "640"
+        },
+        {
+            "name": "Williamsburg",
+            "formattedName": "williamsburg",
+            "count": "468"
+        },
+        {
+            "name": "Fort Greene",
+            "formattedName": "fortGreene",
+            "count": "206"
+        },
+        {
+            "name": "Bedford Stuyvesant",
+            "formattedName": "bedfordStuyvesant",
+            "count": "92"
+        },
+        {
+            "name": "Clinton Hill",
+            "formattedName": "clintonHill",
+            "count": "89"
+        }
+    ],
+    "2010": [
+        {
+            "name": "Williamsburg",
+            "formattedName": "williamsburg",
+            "count": "608"
+        },
+        {
+            "name": "Park Slope",
+            "formattedName": "parkSlope",
+            "count": "409"
+        },
+        {
+            "name": "Brooklyn Heights",
+            "formattedName": "brooklynHeights",
+            "count": "340"
+        },
+        {
+            "name": "Fort Greene",
+            "formattedName": "fortGreene",
+            "count": "288"
+        },
+        {
+            "name": "Bedford Stuyvesant",
+            "formattedName": "bedfordStuyvesant",
+            "count": "145"
+        }
+    ],
+    "2011": [
+        {
+            "name": "Williamsburg",
+            "formattedName": "williamsburg",
+            "count": "586"
+        },
+        {
+            "name": "Fort Greene",
+            "formattedName": "fortGreene",
+            "count": "560"
+        },
+        {
+            "name": "Bedford Stuyvesant",
+            "formattedName": "bedfordStuyvesant",
+            "count": "125"
+        },
+        {
+            "name": "Clinton Hill",
+            "formattedName": "clintonHill",
+            "count": "120"
+        },
+        {
+            "name": "Brownsville",
+            "formattedName": "brownsville",
+            "count": "63"
+        }
+    ],
+    "2012": [
+        {
+            "name": "Park Slope",
+            "formattedName": "parkSlope",
+            "count": "333"
+        },
+        {
+            "name": "Fort Greene",
+            "formattedName": "fortGreene",
+            "count": "300"
+        },
+        {
+            "name": "Brooklyn Heights",
+            "formattedName": "brooklynHeights",
+            "count": "159"
+        },
+        {
+            "name": "Dumbo",
+            "formattedName": "dumbo",
+            "count": "125"
+        },
+        {
+            "name": "Bedford Stuyvesant",
+            "formattedName": "bedfordStuyvesant",
+            "count": "110"
+        }
+    ]
+}

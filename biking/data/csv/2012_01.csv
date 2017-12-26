@@ -1,0 +1,497 @@
+[
+	{
+		"intersection":"bay 44 street and shore parkway",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"and brighton beach avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"street and brighton beach avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"west 21 street",
+		"injuries":2,
+		"deaths":0
+	},
+	{
+		"intersection":"ocean parkway and west avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"avenue t and east 1 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"east 8 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"west 6 street",
+		"injuries":2,
+		"deaths":0
+	},
+	{
+		"intersection":"avenue z and coney island avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"avenue z and east 18 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"86 street",
+		"injuries":3,
+		"deaths":0
+	},
+	{
+		"intersection":"and 62 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"24 avenue and 81 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"avenue n and east 54 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"avenue u and east 69 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"and farragut road",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"farragut road and ralph avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"10 avenue and 60 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"12 avenue and 48 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"48 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"15 avenue and 58 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"17 avenue and 42 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"17 avenue and 45 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"51 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"18 avenue and 58 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"new utrecht avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"and new utrecht avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"avenue n and ocean parkway",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"coney island avenue",
+		"injuries":3,
+		"deaths":0
+	},
+	{
+		"intersection":"caton avenue and ocean parkway",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"albany avenue and avenue d",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"and east 40 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"clarendon road and utica avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"clarkson avenue and nostrand avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"remsen avenue and winthrop street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"winthrop street",
+		"injuries":2,
+		"deaths":0
+	},
+	{
+		"intersection":"11 avenue and bay ridge parkway",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"4 avenue and 66 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"bay ridge parkway",
+		"injuries":2,
+		"deaths":0
+	},
+	{
+		"intersection":"6 avenue and 65 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"and gatling place",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"farragut road and ralph avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"avenue i and nostrand avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"avenue l and east 28 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"avenue o and east 13 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"westminster road",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"flatbush avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"flatbush avenue and glenwood road",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"22 street and 5 avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"24 street and 5 avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"39 street and 5 avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"65 street",
+		"injuries":7,
+		"deaths":0
+	},
+	{
+		"intersection":"prospect park southwest and reeve place",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"blake avenue and stone avenue",
+		"injuries":0,
+		"deaths":1
+	},
+	{
+		"intersection":"livonia avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"ashford street and linden boulevard",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"and pennsylvania avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"bushwick avenue and conway street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"van siclen avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"jamaica avenue and shepherd avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"avenue and sutter avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"bush street and hamilton avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"new york avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"eastern parkway and nostrand avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"flatbush avenue and saint marks avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"kingston avenue and saint johns place",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"nostrand avenue and pacific street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"and saint johns place",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"1 street and 5 avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"13 street and 4 avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"5 avenue and berkeley place",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"sackett street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"atlantic avenue and bedford avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"classon avenue and lefferts place",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"lafayette avenue and tompkins avenue",
+		"injuries":2,
+		"deaths":0
+	},
+	{
+		"intersection":"broadway and halsey street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"broadway and myrtle avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"and flushing avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"wilson avenue and woodbine street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"jay street and myrtle avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"adelphi street and myrtle avenue",
+		"injuries":2,
+		"deaths":0
+	},
+	{
+		"intersection":"and ft greene place",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"classon avenue and gates avenue",
+		"injuries":2,
+		"deaths":0
+	},
+	{
+		"intersection":"de kalb avenue and saint felix street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"bedford avenue and division avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"bedford avenue and flushing avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"broadway and havemeyer street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"broadway and roebling street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"flushing avenue and gardner avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"flushing avenue and humboldt street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"graham avenue and maujer street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"harrison avenue and wallabout street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"meserole street and union avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"bayard street and union avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"conselyea street and woodpoint road",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"driggs avenue and north 9 street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"greenpoint avenue and kingsland avenue",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"greenpoint avenue and moultrie street",
+		"injuries":1,
+		"deaths":0
+	},
+	{
+		"intersection":"manhattan avenue and norman avenue",
+		"injuries":1,
+		"deaths":0
+	}
+]

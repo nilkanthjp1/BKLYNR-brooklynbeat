@@ -1,0 +1,530 @@
+{
+"bedfordStuyvesant": [
+	{
+		"1970": "203380",
+		"1980": "133379",
+		"1990": "138696",
+		"2000": "143867",
+		"2010": "152985",
+		"name": "Bedford-Stuyvesant",
+		"formattedName": "Bedford-Stuyvesant"
+	}
+],
+"brownsville": [
+	{
+		"1970": "",
+		"1980": "",
+		"1990": "",
+		"2000": "59099",
+		"2010": "",
+		"name": "Brownsville",
+		"formattedName": "Brownsville"
+	}
+],
+"bergenBeach": [
+	{
+		"1970": "",
+		"1980": "",
+		"1990": "",
+		"2000": "",
+		"2010": "42940",
+		"name": "Georgetown, Marine Park, Bergen Beach, and Mill Basin",
+		"formattedName": "Bergen Beach"
+	}
+],
+"flatlands": [
+	{
+		"1970": "188643",
+		"1980": "169092",
+		"1990": "162428",
+		"2000": "194653",
+		"2010": "193543",
+		"name": "Canarse and Flatlands",
+		"formattedName": "Flatlands"
+	}
+],
+"cypressHills": [
+	{
+		"1970": "",
+		"1980": "",
+		"1990": "",
+		"2000": "48961",
+		"2010": "",
+		"name": "Cypress Hill and City Line",
+		"formattedName": "Cypress Hills"
+	}
+],
+"clintonHill": [
+	{
+		"1970": "",
+		"1980": "",
+		"1990": "",
+		"2000": "33292",
+		"2010": "",
+		"name": "Clinton Hill",
+		"formattedName": "Clinton Hill"
+	}
+],
+"fortGreene": [
+	{
+		"1970": "110221",
+		"1980": "92732",
+		"1990": "94534",
+		"2000": "98620",
+		"2010": "99617",
+		"name": "Brooklyn Heights and Fort Greene",
+		"formattedName": "Fort Greene"
+	}
+],
+"williamsburg": [
+	{
+		"1970": "179390",
+		"1980": "142942",
+		"1990": "155972",
+		"2000": "160338",
+		"2010": "173083",
+		"name": "Williamsburg and Greepoint",
+		"formattedName": "Williamsburg"
+	}
+],
+"brooklynHeights": [
+	{
+		"1970": "110221",
+		"1980": "92732",
+		"1990": "94534",
+		"2000": "98620",
+		"2010": "99617",
+		"name": "Brooklyn Heights and Fort Greene",
+		"formattedName": "Brooklyn Heights"
+	}
+],
+"dumbo": [
+	{
+		"1970": "",
+		"1980": "",
+		"1990": "",
+		"2000": "30847",
+		"2010": "",
+		"name": "DUMBO, Vinegar Hill, Downtown Brooklyn and Boerum Hill",
+		"formattedName": "DUMBO"
+	}
+],
+"redHook": [
+	{
+		"1970": "",
+		"1980": "",
+		"1990": "",
+		"2000": "38327",
+		"2010": "",
+		"name": "Carroll Gardens and Red Hook",
+		"formattedName": "Red Hook"
+	}
+],
+"parkSlope": [
+	{
+		"1970": "138933",
+		"1980": "110228",
+		"1990": "102724",
+		"2000": "104054",
+		"2010": "104709",
+		"name": "Park Slope and Carroll Gardens",
+		"formattedName": "Park Slope"
+	}
+],
+"midwood": [
+	{
+		"1970": "",
+		"1980": "",
+		"1990": "",
+		"2000": "55440",
+		"2010": "",
+		"name": "Midwood",
+		"formattedName": "Midwood"
+	}
+],
+"greenwoodCemetary": [
+	{
+		"1970": "",
+		"1980": "",
+		"1990": "",
+		"2000": "",
+		"2010": "",
+		"name": "",
+		"formattedName": ""
+	}
+],
+"greenpoint": [
+	{
+		"1970": "179390",
+		"1980": "142942",
+		"1990": "155972",
+		"2000": "160338",
+		"2010": "173083",
+		"name": "Williamsburg and Greepoint",
+		"formattedName": "Greenpoint"
+	}
+],
+"prospectHeights": [
+	{
+		"1970": "",
+		"1980": "",
+		"1990": "",
+		"2000": "19655",
+		"2010": "",
+		"name": "Prospect Heights",
+		"formattedName": "Prospect Heights"
+	}
+],
+"flatbush": [
+	{
+		"1970": "137041",
+		"1980": "143859",
+		"1990": "159825",
+		"2000": "168806",
+		"2010": "160664",
+		"name": "Flatbush and Midwood",
+		"formattedName": "East Flatbush"
+	}
+],
+"eastNewYork": [
+	{
+		"1970": "170791",
+		"1980": "154931",
+		"1990": "161350",
+		"2000": "173198",
+		"2010": "182896",
+		"name": "East New York",
+		"formattedName": "East New York"
+	}
+],
+"dykerHeights": [
+	{
+		"1970": "129822",
+		"1980": "118187",
+		"1990": "110612",
+		"2000": "122542",
+		"2010": "124491",
+		"name": "Dyker Heights and Bay Ridge",
+		"formattedName": "Dyker Heights"
+	}
+],
+"downtownBrooklyn": [
+	{
+		"1970": "",
+		"1980": "",
+		"1990": "",
+		"2000": "30847",
+		"2010": "",
+		"name": "DUMBO, Vinegar Hill, Downtown Brooklyn and Boerum Hill",
+		"formattedName": "Downtown Brooklyn"
+	}
+],
+"coneyIsland": [
+	{
+		"1970": "97750",
+		"1980": "100030",
+		"1990": "102596",
+		"2000": "106120",
+		"2010": "104278",
+		"name": "Coney Island and Brighton Beach",
+		"formattedName": "Coney Island"
+	}
+],
+"carrollGardens": [
+	{
+		"1970": "138933",
+		"1980": "110228",
+		"1990": "102724",
+		"2000": "104054",
+		"2010": "104709",
+		"name": "Park Slope and Carroll Gardens",
+		"formattedName": "Carroll Gardens"
+	}
+],
+"gowanus": [
+	{
+		"1970": "",
+		"1980": "",
+		"1990": "",
+		"2000": "67263",
+		"2010": "",
+		"name": "Park Slope and Gowanus",
+		"formattedName": "Gowanus"
+	}
+],
+"canarsie": [
+	{
+		"1970": "188643",
+		"1980": "169092",
+		"1990": "162428",
+		"2000": "194653",
+		"2010": "193543",
+		"name": "Canarsie and Flatlands",
+		"formattedName": "Canarsie"
+	}
+],
+"bushwick": [
+	{
+		"1970": "137902",
+		"1980": "92497",
+		"1990": "102572",
+		"2000": "104358",
+		"2010": "112634",
+		"name": "Bushwick",
+		"formattedName": "Bushwick"
+	}
+],
+"cobbleHill": [
+	{
+		"1970": "",
+		"1980": "",
+		"1990": "",
+		"2000": "22548",
+		"2010": "",
+		"name": "Brooklyn Heights and Cobble Hill",
+		"formattedName": "Cobble Hill"
+	}
+],
+"boroughPark": [
+	{
+		"1970": "",
+		"1980": "",
+		"1990": "",
+		"2000": "101055",
+		"2010": "",
+		"name": "Borough Park",
+		"formattedName": "Borough Park"
+	}
+],
+"boerumHill": [
+	{
+		"1970": "",
+		"1980": "",
+		"1990": "",
+		"2000": "30847",
+		"2010": "",
+		"name": "DUMBO, Vinegar Hill, Downtown Brooklyn and Boerum Hill",
+		"formattedName": "Boerum Hill"
+	}
+],
+"bensonhurst": [
+	{
+		"1970": "170119",
+		"1980": "155072",
+		"1990": "149994",
+		"2000": "172129",
+		"2010": "181981",
+		"name": "Bensonhurst and Bath Beach",
+		"formattedName": "Bensonhurst"
+	}
+],
+"bayRidge": [
+	{
+		"1970": "129822",
+		"1980": "118187",
+		"1990": "110612",
+		"2000": "122542",
+		"2010": "124491",
+		"name": "Dyker Heights and Bay Ridge",
+		"formattedName": "Bay Ridge"
+	}
+],
+"sheepsheadBay": [
+	{
+		"1970": "164815",
+		"1980": "149572",
+		"1990": "143477",
+		"2000": "160319",
+		"2010": "159650",
+		"name": "Sheepshead Bay and Gerritsen Beach",
+		"formattedName": "Sheepshead Bay"
+	}
+],
+"crownHeights": [
+	{
+		"1970": "222868",
+		"1980": "185465",
+		"1990": "207115",
+		"2000": "200090",
+		"2010": "194746",
+		"name": "Crown Heights",
+		"formattedName": "Crown Heights"
+	}
+],
+"sunsetPark": [
+	{
+		"1970": "111607",
+		"1980": "98567",
+		"1990": "102553",
+		"2000": "120063",
+		"2010": "126230",
+		"name": "Sunset Park and Windsor Terrace",
+		"formattedName": "Sunset Park"
+	}
+],
+"windsorTerrace": [
+	{
+		"1970": "111607",
+		"1980": "98567",
+		"1990": "102553",
+		"2000": "120063",
+		"2010": "126230",
+		"name": "Sunset Park and Windsor Terrace",
+		"formattedName": "Windsor Terrace"
+	}
+],
+"brightonBeach": [
+	{
+		"1970": "97750",
+		"1980": "100030",
+		"1990": "102596",
+		"2000": "106120",
+		"2010": "104278",
+		"name": "Coney Island and Brighton Beach",
+		"formattedName": "Brighton Beach"
+	}
+],
+"seagate": [
+	{
+		"1970": "",
+		"1980": "",
+		"1990": "",
+		"2000": "34267",
+		"2010": "",
+		"name": "Coney Island and Seagate",
+		"formattedName": "Seagate"
+	}
+],
+"cityLine": [
+	{
+		"1970": "",
+		"1980": "",
+		"1990": "",
+		"2000": "48961",
+		"2010": "",
+		"name": "Cypress Hills and City Line",
+		"formattedName": "City Line"
+	}
+],
+"leffertsGardens": [
+	{
+		"1970": "",
+		"1980": "",
+		"1990": "",
+		"2000": "70300",
+		"2010": "",
+		"name": "Lefferts Gardens",
+		"formattedName": "Lefferts Gardens"
+	}
+],
+"ditmasPark": [
+	{
+		"1970": "",
+		"1980": "",
+		"1990": "",
+		"2000": "5394",
+		"2010": "",
+		"name": "Ditmas Park",
+		"formattedName": "Ditmas Park"
+	}
+],
+"kensington": [
+	{
+		"1970": "",
+		"1980": "",
+		"1990": "",
+		"2000": "36937",
+		"2010": "",
+		"name": "Kensington",
+		"formattedName": "Kensington"
+	}
+],
+"marinePark": [
+	{
+		"1970": "",
+		"1980": "",
+		"1990": "",
+		"2000": "",
+		"2010": "42940",
+		"name": "Georgetown, Marine Park, Bergen Beach, and Mill Basin",
+		"formattedName": "Marine Park"
+	}
+],
+"gravesend": [
+	{
+		"1970": "",
+		"1980": "",
+		"1990": "",
+		"2000": "29257",
+		"2010": "",
+		"name": "Gravesend",
+		"formattedName": "Gravesend"
+	}
+],
+"navyYard": [
+	{
+		"1970": "",
+		"1980": "",
+		"1990": "",
+		"2000": "",
+		"2010": "",
+		"name": "Navy Yard",
+		"formattedName": "Navy Yard"
+	}
+],
+"bathBeach": [
+	{
+		"1970": "170119",
+		"1980": "155072",
+		"1990": "149994",
+		"2000": "172129",
+		"2010": "181981",
+		"name": "Bensonhurst and Bath Beach",
+		"formattedName": "Bath Beach"
+	}
+],
+"manhattanBeach": [
+	{
+		"1970": "",
+		"1980": "",
+		"1990": "",
+		"2000": "",
+		"2010": "",
+		"name": "Manhattan Beach",
+		"formattedName": "Manhattan Beach"
+	}
+],
+"gerritsenBeach": [
+	{
+		"1970": "164815",
+		"1980": "149572",
+		"1990": "143477",
+		"2000": "160319",
+		"2010": "159650",
+		"name": "Sheepshead Bay and Gerritsen Beach",
+		"formattedName": "Gerritsen Beach"
+	}
+],
+"millBasin": [
+	{
+		"1970": "",
+		"1980": "",
+		"1990": "",
+		"2000": "",
+		"2010": "42940",
+		"name": "Georgetown, Marine Park, Bergen Beach, and Mill Basin",
+		"formattedName": "Mill Basin"
+	}
+],
+"vinegarHill": [
+	{
+		"1970": "",
+		"1980": "",
+		"1990": "",
+		"2000": "30847",
+		"2010": "",
+		"name": "DUMBO, Vinegar Hill, Downtown Brooklyn and Boerum Hill",
+		"formattedName": "Vinegar Hill"
+	}
+]
+}

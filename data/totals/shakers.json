@@ -1,0 +1,2033 @@
+{
+    "1982": {
+        "positive": [
+            {
+                "name": "Bushwick",
+                "formattedName": "bushwick",
+                "change": "+65",
+                "changePercentage": "+185.7%"
+            },
+            {
+                "name": "Canarsie",
+                "formattedName": "canarsie",
+                "change": "+63",
+                "changePercentage": "+170.3%"
+            },
+            {
+                "name": "Williamsburg",
+                "formattedName": "williamsburg",
+                "change": "+23",
+                "changePercentage": "+32.4%"
+            },
+            {
+                "name": "Midwood",
+                "formattedName": "midwood",
+                "change": "+21",
+                "changePercentage": "+100%"
+            },
+            {
+                "name": "Bedford Stuyvesant",
+                "formattedName": "bedfordStuyvesant",
+                "change": "+15",
+                "changePercentage": "+19%"
+            }
+        ],
+        "negative": [
+            {
+                "name": "Sunset Park",
+                "formattedName": "sunsetPark",
+                "change": "-19",
+                "changePercentage": "-47.5%"
+            },
+            {
+                "name": "Brighton Beach",
+                "formattedName": "brightonBeach",
+                "change": "-13",
+                "changePercentage": "-35.1%"
+            },
+            {
+                "name": "Navy Yard",
+                "formattedName": "navyYard",
+                "change": "-9",
+                "changePercentage": "-15%"
+            },
+            {
+                "name": "Mill Basin",
+                "formattedName": "millBasin",
+                "change": "-7",
+                "changePercentage": "-100%"
+            },
+            {
+                "name": "Marine Park",
+                "formattedName": "marinePark",
+                "change": "-5",
+                "changePercentage": "-45.5%"
+            }
+        ]
+    },
+    "1983": {
+        "positive": [
+            {
+                "name": "East Flatbush",
+                "formattedName": "flatbush",
+                "change": "+124",
+                "changePercentage": "+129.2%"
+            },
+            {
+                "name": "Fort Greene",
+                "formattedName": "fortGreene",
+                "change": "+27",
+                "changePercentage": "+122.7%"
+            },
+            {
+                "name": "Brooklyn Heights",
+                "formattedName": "brooklynHeights",
+                "change": "+17",
+                "changePercentage": "+17.9%"
+            },
+            {
+                "name": "Clinton Hill",
+                "formattedName": "clintonHill",
+                "change": "+16",
+                "changePercentage": "+400%"
+            },
+            {
+                "name": "Brownsville",
+                "formattedName": "brownsville",
+                "change": "+4",
+                "changePercentage": "+9.1%"
+            }
+        ],
+        "negative": [
+            {
+                "name": "Canarsie",
+                "formattedName": "canarsie",
+                "change": "-61",
+                "changePercentage": "-61%"
+            },
+            {
+                "name": "Bushwick",
+                "formattedName": "bushwick",
+                "change": "-54",
+                "changePercentage": "-54%"
+            },
+            {
+                "name": "Bedford Stuyvesant",
+                "formattedName": "bedfordStuyvesant",
+                "change": "-48",
+                "changePercentage": "-51.1%"
+            },
+            {
+                "name": "Williamsburg",
+                "formattedName": "williamsburg",
+                "change": "-18",
+                "changePercentage": "-19.1%"
+            },
+            {
+                "name": "East New York",
+                "formattedName": "eastNewYork",
+                "change": "-12",
+                "changePercentage": "-21.1%"
+            }
+        ]
+    },
+    "1984": {
+        "positive": [
+            {
+                "name": "Bedford Stuyvesant",
+                "formattedName": "bedfordStuyvesant",
+                "change": "+52",
+                "changePercentage": "+113%"
+            },
+            {
+                "name": "Navy Yard",
+                "formattedName": "navyYard",
+                "change": "+51",
+                "changePercentage": "+104.1%"
+            },
+            {
+                "name": "East New York",
+                "formattedName": "eastNewYork",
+                "change": "+18",
+                "changePercentage": "+40%"
+            },
+            {
+                "name": "Bushwick",
+                "formattedName": "bushwick",
+                "change": "+15",
+                "changePercentage": "+32.6%"
+            },
+            {
+                "name": "Brooklyn Heights",
+                "formattedName": "brooklynHeights",
+                "change": "+14",
+                "changePercentage": "+12.5%"
+            }
+        ],
+        "negative": [
+            {
+                "name": "Midwood",
+                "formattedName": "midwood",
+                "change": "-30",
+                "changePercentage": "-53.6%"
+            },
+            {
+                "name": "Coney Island",
+                "formattedName": "coneyIsland",
+                "change": "-24",
+                "changePercentage": "-20.7%"
+            },
+            {
+                "name": "Bay Ridge",
+                "formattedName": "bayRidge",
+                "change": "-19",
+                "changePercentage": "-27.9%"
+            },
+            {
+                "name": "Red Hook",
+                "formattedName": "redHook",
+                "change": "-18",
+                "changePercentage": "-58.1%"
+            },
+            {
+                "name": "Brownsville",
+                "formattedName": "brownsville",
+                "change": "-11",
+                "changePercentage": "-22.9%"
+            }
+        ]
+    },
+    "1985": {
+        "positive": [
+            {
+                "name": "Crown Heights",
+                "formattedName": "crownHeights",
+                "change": "+61",
+                "changePercentage": "+156.4%"
+            },
+            {
+                "name": "Brighton Beach",
+                "formattedName": "brightonBeach",
+                "change": "+12",
+                "changePercentage": "+41.4%"
+            },
+            {
+                "name": "Downtown Brooklyn",
+                "formattedName": "downtownBrooklyn",
+                "change": "+9",
+                "changePercentage": "+13%"
+            },
+            {
+                "name": "East New York",
+                "formattedName": "eastNewYork",
+                "change": "+8",
+                "changePercentage": "+12.7%"
+            },
+            {
+                "name": "Red Hook",
+                "formattedName": "redHook",
+                "change": "+6",
+                "changePercentage": "+46.2%"
+            }
+        ],
+        "negative": [
+            {
+                "name": "East Flatbush",
+                "formattedName": "flatbush",
+                "change": "-115",
+                "changePercentage": "-52.3%"
+            },
+            {
+                "name": "Navy Yard",
+                "formattedName": "navyYard",
+                "change": "-52",
+                "changePercentage": "-52%"
+            },
+            {
+                "name": "Greenpoint",
+                "formattedName": "greenpoint",
+                "change": "-35",
+                "changePercentage": "-58.3%"
+            },
+            {
+                "name": "Brownsville",
+                "formattedName": "brownsville",
+                "change": "-27",
+                "changePercentage": "-73%"
+            },
+            {
+                "name": "Brooklyn Heights",
+                "formattedName": "brooklynHeights",
+                "change": "-21",
+                "changePercentage": "-16.7%"
+            }
+        ]
+    },
+    "1986": {
+        "positive": [
+            {
+                "name": "Coney Island",
+                "formattedName": "coneyIsland",
+                "change": "+181",
+                "changePercentage": "+306.8%"
+            },
+            {
+                "name": "Brooklyn Heights",
+                "formattedName": "brooklynHeights",
+                "change": "+59",
+                "changePercentage": "+56.2%"
+            },
+            {
+                "name": "Brownsville",
+                "formattedName": "brownsville",
+                "change": "+49",
+                "changePercentage": "+490%"
+            },
+            {
+                "name": "Bedford Stuyvesant",
+                "formattedName": "bedfordStuyvesant",
+                "change": "+43",
+                "changePercentage": "+46.2%"
+            },
+            {}
+        ],
+        "negative": [
+            {
+                "name": "Crown Heights",
+                "formattedName": "crownHeights",
+                "change": "-35",
+                "changePercentage": "-35%"
+            },
+            {
+                "name": "Sunset Park",
+                "formattedName": "sunsetPark",
+                "change": "-18",
+                "changePercentage": "-54.5%"
+            },
+            {
+                "name": "Canarsie",
+                "formattedName": "canarsie",
+                "change": "-13",
+                "changePercentage": "-28.3%"
+            },
+            {
+                "name": "Clinton Hill",
+                "formattedName": "clintonHill",
+                "change": "-3",
+                "changePercentage": "-37.5%"
+            },
+            {
+                "name": "Cypress Hills",
+                "formattedName": "cypressHills",
+                "change": "-1",
+                "changePercentage": "-14.3%"
+            }
+        ]
+    },
+    "1987": {
+        "positive": [
+            {
+                "name": "Crown Heights",
+                "formattedName": "crownHeights",
+                "change": "+24",
+                "changePercentage": "+36.9%"
+            },
+            {
+                "name": "Bath Beach",
+                "formattedName": "bathBeach",
+                "change": "+16",
+                "changePercentage": "+400%"
+            },
+            {
+                "name": "Flatlands",
+                "formattedName": "flatlands",
+                "change": "+12",
+                "changePercentage": "+80%"
+            },
+            {
+                "name": "Clinton Hill",
+                "formattedName": "clintonHill",
+                "change": "+9",
+                "changePercentage": "+180%"
+            },
+            {
+                "name": "Midwood",
+                "formattedName": "midwood",
+                "change": "+8",
+                "changePercentage": "+23.5%"
+            }
+        ],
+        "negative": [
+            {
+                "name": "Coney Island",
+                "formattedName": "coneyIsland",
+                "change": "-210",
+                "changePercentage": "-87.5%"
+            },
+            {
+                "name": "Bushwick",
+                "formattedName": "bushwick",
+                "change": "-77",
+                "changePercentage": "-77%"
+            },
+            {
+                "name": "East New York",
+                "formattedName": "eastNewYork",
+                "change": "-72",
+                "changePercentage": "-87.8%"
+            },
+            {
+                "name": "Downtown Brooklyn",
+                "formattedName": "downtownBrooklyn",
+                "change": "-68",
+                "changePercentage": "-63%"
+            },
+            {
+                "name": "Brooklyn Heights",
+                "formattedName": "brooklynHeights",
+                "change": "-38",
+                "changePercentage": "-23.2%"
+            }
+        ]
+    },
+    "1988": {
+        "positive": [
+            {
+                "name": "Park Slope",
+                "formattedName": "parkSlope",
+                "change": "+153",
+                "changePercentage": "+175.9%"
+            },
+            {
+                "name": "East New York",
+                "formattedName": "eastNewYork",
+                "change": "+92",
+                "changePercentage": "+920%"
+            },
+            {
+                "name": "Williamsburg",
+                "formattedName": "williamsburg",
+                "change": "+78",
+                "changePercentage": "+102.6%"
+            },
+            {
+                "name": "Fort Greene",
+                "formattedName": "fortGreene",
+                "change": "+14",
+                "changePercentage": "+28.6%"
+            },
+            {
+                "name": "Brownsville",
+                "formattedName": "brownsville",
+                "change": "+10",
+                "changePercentage": "+17.2%"
+            }
+        ],
+        "negative": [
+            {
+                "name": "Navy Yard",
+                "formattedName": "navyYard",
+                "change": "-32",
+                "changePercentage": "-58.2%"
+            },
+            {
+                "name": "Bensonhurst",
+                "formattedName": "bensonhurst",
+                "change": "-15",
+                "changePercentage": "-23.4%"
+            },
+            {
+                "name": "Gravesend",
+                "formattedName": "gravesend",
+                "change": "-11",
+                "changePercentage": "-44%"
+            },
+            {
+                "name": "Marine Park",
+                "formattedName": "marinePark",
+                "change": "-9",
+                "changePercentage": "-52.9%"
+            },
+            {
+                "name": "Bay Ridge",
+                "formattedName": "bayRidge",
+                "change": "-8",
+                "changePercentage": "-12.5%"
+            }
+        ]
+    },
+    "1989": {
+        "positive": [
+            {
+                "name": "Brooklyn Heights",
+                "formattedName": "brooklynHeights",
+                "change": "+176",
+                "changePercentage": "+141.9%"
+            },
+            {
+                "name": "Bedford Stuyvesant",
+                "formattedName": "bedfordStuyvesant",
+                "change": "+173",
+                "changePercentage": "+136.2%"
+            },
+            {
+                "name": "Williamsburg",
+                "formattedName": "williamsburg",
+                "change": "+66",
+                "changePercentage": "+42.9%"
+            },
+            {
+                "name": "Brownsville",
+                "formattedName": "brownsville",
+                "change": "+52",
+                "changePercentage": "+76.5%"
+            },
+            {
+                "name": "Clinton Hill",
+                "formattedName": "clintonHill",
+                "change": "+9",
+                "changePercentage": "+112.5%"
+            }
+        ],
+        "negative": [
+            {
+                "name": "Park Slope",
+                "formattedName": "parkSlope",
+                "change": "-96",
+                "changePercentage": "-40%"
+            },
+            {
+                "name": "Red Hook",
+                "formattedName": "redHook",
+                "change": "-13",
+                "changePercentage": "-41.9%"
+            },
+            {
+                "name": "Flatlands",
+                "formattedName": "flatlands",
+                "change": "-10",
+                "changePercentage": "-37%"
+            },
+            {
+                "name": "Cypress Hills",
+                "formattedName": "cypressHills",
+                "change": "-6",
+                "changePercentage": "-50%"
+            },
+            {
+                "name": "Bergen Beach",
+                "formattedName": "bergenBeach",
+                "change": "-2",
+                "changePercentage": "-100%"
+            }
+        ]
+    },
+    "1990": {
+        "positive": [
+            {
+                "name": "Bensonhurst",
+                "formattedName": "bensonhurst",
+                "change": "+321",
+                "changePercentage": "+179.3%"
+            },
+            {
+                "name": "East New York",
+                "formattedName": "eastNewYork",
+                "change": "+52",
+                "changePercentage": "+50%"
+            },
+            {
+                "name": "East Flatbush",
+                "formattedName": "flatbush",
+                "change": "+37",
+                "changePercentage": "+32.5%"
+            },
+            {
+                "name": "Cypress Hills",
+                "formattedName": "cypressHills",
+                "change": "+14",
+                "changePercentage": "+233.3%"
+            },
+            {
+                "name": "Greenpoint",
+                "formattedName": "greenpoint",
+                "change": "+4",
+                "changePercentage": "+9.1%"
+            }
+        ],
+        "negative": [
+            {
+                "name": "Bedford Stuyvesant",
+                "formattedName": "bedfordStuyvesant",
+                "change": "-165",
+                "changePercentage": "-55%"
+            },
+            {
+                "name": "Williamsburg",
+                "formattedName": "williamsburg",
+                "change": "-111",
+                "changePercentage": "-50.5%"
+            },
+            {
+                "name": "Brownsville",
+                "formattedName": "brownsville",
+                "change": "-64",
+                "changePercentage": "-53.3%"
+            },
+            {
+                "name": "Flatlands",
+                "formattedName": "flatlands",
+                "change": "-6",
+                "changePercentage": "-35.3%"
+            },
+            {
+                "name": "Bergen Beach",
+                "formattedName": "bergenBeach",
+                "change": "0",
+                "changePercentage": "all positive"
+            }
+        ]
+    },
+    "1991": {
+        "positive": [
+            {
+                "name": "Crown Heights",
+                "formattedName": "crownHeights",
+                "change": "+446",
+                "changePercentage": "+474.5%"
+            },
+            {
+                "name": "Sheepshead Bay",
+                "formattedName": "sheepsheadBay",
+                "change": "+61",
+                "changePercentage": "+156.4%"
+            },
+            {
+                "name": "Coney Island",
+                "formattedName": "coneyIsland",
+                "change": "+40",
+                "changePercentage": "+38.8%"
+            },
+            {
+                "name": "Bay Ridge",
+                "formattedName": "bayRidge",
+                "change": "+36",
+                "changePercentage": "+64.3%"
+            },
+            {
+                "name": "Flatlands",
+                "formattedName": "flatlands",
+                "change": "+34",
+                "changePercentage": "+309.1%"
+            }
+        ],
+        "negative": [
+            {
+                "name": "Bensonhurst",
+                "formattedName": "bensonhurst",
+                "change": "-389",
+                "changePercentage": "-77.8%"
+            },
+            {
+                "name": "Brooklyn Heights",
+                "formattedName": "brooklynHeights",
+                "change": "-105",
+                "changePercentage": "-43.8%"
+            },
+            {
+                "name": "East New York",
+                "formattedName": "eastNewYork",
+                "change": "-38",
+                "changePercentage": "-24.4%"
+            },
+            {
+                "name": "Greenpoint",
+                "formattedName": "greenpoint",
+                "change": "-13",
+                "changePercentage": "-27.1%"
+            },
+            {
+                "name": "Brownsville",
+                "formattedName": "brownsville",
+                "change": "-7",
+                "changePercentage": "-12.5%"
+            }
+        ]
+    },
+    "1992": {
+        "positive": [
+            {
+                "name": "Bushwick",
+                "formattedName": "bushwick",
+                "change": "+88",
+                "changePercentage": "+122.2%"
+            },
+            {
+                "name": "Crown Heights",
+                "formattedName": "crownHeights",
+                "change": "+60",
+                "changePercentage": "+11.1%"
+            },
+            {
+                "name": "Navy Yard",
+                "formattedName": "navyYard",
+                "change": "+41",
+                "changePercentage": "+186.4%"
+            },
+            {
+                "name": "Brownsville",
+                "formattedName": "brownsville",
+                "change": "+32",
+                "changePercentage": "+65.3%"
+            },
+            {
+                "name": "Red Hook",
+                "formattedName": "redHook",
+                "change": "+29",
+                "changePercentage": "+131.8%"
+            }
+        ],
+        "negative": [
+            {
+                "name": "Coney Island",
+                "formattedName": "coneyIsland",
+                "change": "-47",
+                "changePercentage": "-32.9%"
+            },
+            {
+                "name": "Sheepshead Bay",
+                "formattedName": "sheepsheadBay",
+                "change": "-44",
+                "changePercentage": "-44%"
+            },
+            {
+                "name": "East Flatbush",
+                "formattedName": "flatbush",
+                "change": "-41",
+                "changePercentage": "-26.8%"
+            },
+            {
+                "name": "Downtown Brooklyn",
+                "formattedName": "downtownBrooklyn",
+                "change": "-29",
+                "changePercentage": "-30.9%"
+            },
+            {
+                "name": "Flatlands",
+                "formattedName": "flatlands",
+                "change": "-20",
+                "changePercentage": "-44.4%"
+            }
+        ]
+    },
+    "1993": {
+        "positive": [
+            {
+                "name": "Fort Greene",
+                "formattedName": "fortGreene",
+                "change": "+103",
+                "changePercentage": "+133.8%"
+            },
+            {
+                "name": "Downtown Brooklyn",
+                "formattedName": "downtownBrooklyn",
+                "change": "+37",
+                "changePercentage": "+56.9%"
+            },
+            {
+                "name": "Windsor Terrace",
+                "formattedName": "windsorTerrace",
+                "change": "+32",
+                "changePercentage": "+400%"
+            },
+            {
+                "name": "Borough Park",
+                "formattedName": "boroughPark",
+                "change": "+31",
+                "changePercentage": "+83.8%"
+            },
+            {
+                "name": "Red Hook",
+                "formattedName": "redHook",
+                "change": "+30",
+                "changePercentage": "+58.8%"
+            }
+        ],
+        "negative": [
+            {
+                "name": "Crown Heights",
+                "formattedName": "crownHeights",
+                "change": "-309",
+                "changePercentage": "-51.5%"
+            },
+            {
+                "name": "Bushwick",
+                "formattedName": "bushwick",
+                "change": "-74",
+                "changePercentage": "-46.3%"
+            },
+            {
+                "name": "Bensonhurst",
+                "formattedName": "bensonhurst",
+                "change": "-20",
+                "changePercentage": "-23.5%"
+            },
+            {
+                "name": "Canarsie",
+                "formattedName": "canarsie",
+                "change": "-18",
+                "changePercentage": "-34%"
+            },
+            {
+                "name": "Greenpoint",
+                "formattedName": "greenpoint",
+                "change": "-12",
+                "changePercentage": "-23.5%"
+            }
+        ]
+    },
+    "1994": {
+        "positive": [
+            {
+                "name": "Bedford Stuyvesant",
+                "formattedName": "bedfordStuyvesant",
+                "change": "+172",
+                "changePercentage": "+116.2%"
+            },
+            {
+                "name": "Williamsburg",
+                "formattedName": "williamsburg",
+                "change": "+121",
+                "changePercentage": "+87.1%"
+            },
+            {
+                "name": "Coney Island",
+                "formattedName": "coneyIsland",
+                "change": "+55",
+                "changePercentage": "+56.7%"
+            },
+            {
+                "name": "Sheepshead Bay",
+                "formattedName": "sheepsheadBay",
+                "change": "+35",
+                "changePercentage": "+76.1%"
+            },
+            {
+                "name": "Canarsie",
+                "formattedName": "canarsie",
+                "change": "+27",
+                "changePercentage": "+77.1%"
+            }
+        ],
+        "negative": [
+            {
+                "name": "Fort Greene",
+                "formattedName": "fortGreene",
+                "change": "-95",
+                "changePercentage": "-52.8%"
+            },
+            {
+                "name": "Crown Heights",
+                "formattedName": "crownHeights",
+                "change": "-33",
+                "changePercentage": "-11.3%"
+            },
+            {
+                "name": "Borough Park",
+                "formattedName": "boroughPark",
+                "change": "-27",
+                "changePercentage": "-39.7%"
+            },
+            {
+                "name": "Flatlands",
+                "formattedName": "flatlands",
+                "change": "-26",
+                "changePercentage": "-65%"
+            },
+            {
+                "name": "Cypress Hills",
+                "formattedName": "cypressHills",
+                "change": "-11",
+                "changePercentage": "-55%"
+            }
+        ]
+    },
+    "1995": {
+        "positive": [
+            {
+                "name": "East Flatbush",
+                "formattedName": "flatbush",
+                "change": "+66",
+                "changePercentage": "+49.3%"
+            },
+            {
+                "name": "Downtown Brooklyn",
+                "formattedName": "downtownBrooklyn",
+                "change": "+45",
+                "changePercentage": "+45.9%"
+            },
+            {
+                "name": "Red Hook",
+                "formattedName": "redHook",
+                "change": "+41",
+                "changePercentage": "+69.5%"
+            },
+            {
+                "name": "Midwood",
+                "formattedName": "midwood",
+                "change": "+40",
+                "changePercentage": "+67.8%"
+            },
+            {
+                "name": "Brooklyn Heights",
+                "formattedName": "brooklynHeights",
+                "change": "+8",
+                "changePercentage": "+5.2%"
+            }
+        ],
+        "negative": [
+            {
+                "name": "Bedford Stuyvesant",
+                "formattedName": "bedfordStuyvesant",
+                "change": "-176",
+                "changePercentage": "-55%"
+            },
+            {
+                "name": "Crown Heights",
+                "formattedName": "crownHeights",
+                "change": "-133",
+                "changePercentage": "-51.6%"
+            },
+            {
+                "name": "Williamsburg",
+                "formattedName": "williamsburg",
+                "change": "-124",
+                "changePercentage": "-47.7%"
+            },
+            {
+                "name": "East New York",
+                "formattedName": "eastNewYork",
+                "change": "-52",
+                "changePercentage": "-32.9%"
+            },
+            {
+                "name": "Brownsville",
+                "formattedName": "brownsville",
+                "change": "-23",
+                "changePercentage": "-26.4%"
+            }
+        ]
+    },
+    "1996": {
+        "positive": [
+            {
+                "name": "Brighton Beach",
+                "formattedName": "brightonBeach",
+                "change": "+46",
+                "changePercentage": "+85.2%"
+            },
+            {
+                "name": "East New York",
+                "formattedName": "eastNewYork",
+                "change": "+28",
+                "changePercentage": "+26.4%"
+            },
+            {
+                "name": "Bensonhurst",
+                "formattedName": "bensonhurst",
+                "change": "+23",
+                "changePercentage": "+31.9%"
+            },
+            {
+                "name": "Red Hook",
+                "formattedName": "redHook",
+                "change": "+20",
+                "changePercentage": "+20%"
+            },
+            {
+                "name": "Cypress Hills",
+                "formattedName": "cypressHills",
+                "change": "+11",
+                "changePercentage": "+366.7%"
+            }
+        ],
+        "negative": [
+            {
+                "name": "East Flatbush",
+                "formattedName": "flatbush",
+                "change": "-92",
+                "changePercentage": "-46%"
+            },
+            {
+                "name": "Coney Island",
+                "formattedName": "coneyIsland",
+                "change": "-44",
+                "changePercentage": "-27.2%"
+            },
+            {
+                "name": "Midwood",
+                "formattedName": "midwood",
+                "change": "-42",
+                "changePercentage": "-42.4%"
+            },
+            {
+                "name": "Williamsburg",
+                "formattedName": "williamsburg",
+                "change": "-19",
+                "changePercentage": "-14%"
+            },
+            {
+                "name": "Bedford Stuyvesant",
+                "formattedName": "bedfordStuyvesant",
+                "change": "-17",
+                "changePercentage": "-11.8%"
+            }
+        ]
+    },
+    "1997": {
+        "positive": [
+            {
+                "name": "Downtown Brooklyn",
+                "formattedName": "downtownBrooklyn",
+                "change": "+168",
+                "changePercentage": "+150%"
+            },
+            {
+                "name": "Coney Island",
+                "formattedName": "coneyIsland",
+                "change": "+90",
+                "changePercentage": "+76.3%"
+            },
+            {
+                "name": "Greenpoint",
+                "formattedName": "greenpoint",
+                "change": "+82",
+                "changePercentage": "+215.8%"
+            },
+            {
+                "name": "East Flatbush",
+                "formattedName": "flatbush",
+                "change": "+81",
+                "changePercentage": "+75%"
+            },
+            {
+                "name": "Park Slope",
+                "formattedName": "parkSlope",
+                "change": "+65",
+                "changePercentage": "+34.6%"
+            }
+        ],
+        "negative": [
+            {
+                "name": "Red Hook",
+                "formattedName": "redHook",
+                "change": "-62",
+                "changePercentage": "-51.7%"
+            },
+            {
+                "name": "Brighton Beach",
+                "formattedName": "brightonBeach",
+                "change": "-46",
+                "changePercentage": "-46%"
+            },
+            {
+                "name": "East New York",
+                "formattedName": "eastNewYork",
+                "change": "-15",
+                "changePercentage": "-11.2%"
+            },
+            {
+                "name": "Bushwick",
+                "formattedName": "bushwick",
+                "change": "-9",
+                "changePercentage": "-10.8%"
+            },
+            {
+                "name": "Canarsie",
+                "formattedName": "canarsie",
+                "change": "-7",
+                "changePercentage": "-11.5%"
+            }
+        ]
+    },
+    "1998": {
+        "positive": [
+            {
+                "name": "Williamsburg",
+                "formattedName": "williamsburg",
+                "change": "+209",
+                "changePercentage": "+138.4%"
+            },
+            {
+                "name": "Park Slope",
+                "formattedName": "parkSlope",
+                "change": "+102",
+                "changePercentage": "+40.3%"
+            },
+            {
+                "name": "Borough Park",
+                "formattedName": "boroughPark",
+                "change": "+94",
+                "changePercentage": "+142.4%"
+            },
+            {
+                "name": "Brownsville",
+                "formattedName": "brownsville",
+                "change": "+76",
+                "changePercentage": "+118.8%"
+            },
+            {
+                "name": "Bergen Beach",
+                "formattedName": "bergenBeach",
+                "change": "+3",
+                "changePercentage": "+75%"
+            }
+        ],
+        "negative": [
+            {
+                "name": "Downtown Brooklyn",
+                "formattedName": "downtownBrooklyn",
+                "change": "-128",
+                "changePercentage": "-45.7%"
+            },
+            {
+                "name": "Greenpoint",
+                "formattedName": "greenpoint",
+                "change": "-54",
+                "changePercentage": "-45%"
+            },
+            {
+                "name": "Bedford Stuyvesant",
+                "formattedName": "bedfordStuyvesant",
+                "change": "-29",
+                "changePercentage": "-17.4%"
+            },
+            {
+                "name": "Flatlands",
+                "formattedName": "flatlands",
+                "change": "-5",
+                "changePercentage": "-21.7%"
+            },
+            {
+                "name": "Clinton Hill",
+                "formattedName": "clintonHill",
+                "change": "-5",
+                "changePercentage": "-15.6%"
+            }
+        ]
+    },
+    "1999": {
+        "positive": [
+            {
+                "name": "East Flatbush",
+                "formattedName": "flatbush",
+                "change": "+28",
+                "changePercentage": "+13.3%"
+            },
+            {
+                "name": "Gowanus",
+                "formattedName": "gowanus",
+                "change": "+25",
+                "changePercentage": "+80.6%"
+            },
+            {
+                "name": "Prospect Heights",
+                "formattedName": "prospectHeights",
+                "change": "+24",
+                "changePercentage": "+27.6%"
+            },
+            {
+                "name": "Fort Greene",
+                "formattedName": "fortGreene",
+                "change": "+20",
+                "changePercentage": "+19.6%"
+            },
+            {
+                "name": "Brooklyn Heights",
+                "formattedName": "brooklynHeights",
+                "change": "+20",
+                "changePercentage": "+8.8%"
+            }
+        ],
+        "negative": [
+            {
+                "name": "Williamsburg",
+                "formattedName": "williamsburg",
+                "change": "-172",
+                "changePercentage": "-47.8%"
+            },
+            {
+                "name": "Borough Park",
+                "formattedName": "boroughPark",
+                "change": "-93",
+                "changePercentage": "-58.1%"
+            },
+            {
+                "name": "Brownsville",
+                "formattedName": "brownsville",
+                "change": "-82",
+                "changePercentage": "-58.6%"
+            },
+            {
+                "name": "Cypress Hills",
+                "formattedName": "cypressHills",
+                "change": "-5",
+                "changePercentage": "-31.3%"
+            },
+            {
+                "name": "Flatlands",
+                "formattedName": "flatlands",
+                "change": "-4",
+                "changePercentage": "-22.2%"
+            }
+        ]
+    },
+    "2000": {
+        "positive": [
+            {
+                "name": "Bay Ridge",
+                "formattedName": "bayRidge",
+                "change": "+67",
+                "changePercentage": "+59.3%"
+            },
+            {
+                "name": "Williamsburg",
+                "formattedName": "williamsburg",
+                "change": "+60",
+                "changePercentage": "+31.9%"
+            },
+            {
+                "name": "Clinton Hill",
+                "formattedName": "clintonHill",
+                "change": "+26",
+                "changePercentage": "+76.5%"
+            },
+            {
+                "name": "Brownsville",
+                "formattedName": "brownsville",
+                "change": "+13",
+                "changePercentage": "+22.4%"
+            },
+            {
+                "name": "Bergen Beach",
+                "formattedName": "bergenBeach",
+                "change": "+9",
+                "changePercentage": "+225%"
+            }
+        ],
+        "negative": [
+            {
+                "name": "Coney Island",
+                "formattedName": "coneyIsland",
+                "change": "-42",
+                "changePercentage": "-19.9%"
+            },
+            {
+                "name": "Navy Yard",
+                "formattedName": "navyYard",
+                "change": "-27",
+                "changePercentage": "-46.6%"
+            },
+            {
+                "name": "Cobble Hill",
+                "formattedName": "cobbleHill",
+                "change": "-25",
+                "changePercentage": "-30.5%"
+            },
+            {
+                "name": "Gowanus",
+                "formattedName": "gowanus",
+                "change": "-21",
+                "changePercentage": "-37.5%"
+            },
+            {
+                "name": "Carroll Gardens",
+                "formattedName": "carrollGardens",
+                "change": "-15",
+                "changePercentage": "-21.1%"
+            }
+        ]
+    },
+    "2001": {
+        "positive": [
+            {
+                "name": "Canarsie",
+                "formattedName": "canarsie",
+                "change": "+57",
+                "changePercentage": "+132.6%"
+            },
+            {
+                "name": "Williamsburg",
+                "formattedName": "williamsburg",
+                "change": "+28",
+                "changePercentage": "+11.3%"
+            },
+            {
+                "name": "Clinton Hill",
+                "formattedName": "clintonHill",
+                "change": "+20",
+                "changePercentage": "+33.3%"
+            },
+            {
+                "name": "Bergen Beach",
+                "formattedName": "bergenBeach",
+                "change": "+7",
+                "changePercentage": "+53.8%"
+            },
+            {
+                "name": "Bedford Stuyvesant",
+                "formattedName": "bedfordStuyvesant",
+                "change": "+1",
+                "changePercentage": "+0.8%"
+            }
+        ],
+        "negative": [
+            {
+                "name": "Park Slope",
+                "formattedName": "parkSlope",
+                "change": "-357",
+                "changePercentage": "-100%"
+            },
+            {
+                "name": "Brooklyn Heights",
+                "formattedName": "brooklynHeights",
+                "change": "-239",
+                "changePercentage": "-100%"
+            },
+            {
+                "name": "Fort Greene",
+                "formattedName": "fortGreene",
+                "change": "-132",
+                "changePercentage": "-100%"
+            },
+            {
+                "name": "Brownsville",
+                "formattedName": "brownsville",
+                "change": "-27",
+                "changePercentage": "-38%"
+            },
+            {
+                "name": "Cypress Hills",
+                "formattedName": "cypressHills",
+                "change": "-3",
+                "changePercentage": "-15.8%"
+            }
+        ]
+    },
+    "2002": {
+        "positive": [
+            {
+                "name": "East Flatbush",
+                "formattedName": "flatbush",
+                "change": "+310",
+                "changePercentage": "+all positive"
+            },
+            {
+                "name": "Park Slope",
+                "formattedName": "parkSlope",
+                "change": "+233",
+                "changePercentage": "+all positive"
+            },
+            {
+                "name": "Fort Greene",
+                "formattedName": "fortGreene",
+                "change": "+167",
+                "changePercentage": "+all positive"
+            },
+            {
+                "name": "Red Hook",
+                "formattedName": "redHook",
+                "change": "+73",
+                "changePercentage": "+all positive"
+            },
+            {
+                "name": "Brownsville",
+                "formattedName": "brownsville",
+                "change": "+15",
+                "changePercentage": "+34.1%"
+            }
+        ],
+        "negative": [
+            {
+                "name": "Bedford Stuyvesant",
+                "formattedName": "bedfordStuyvesant",
+                "change": "-132",
+                "changePercentage": "-100%"
+            },
+            {
+                "name": "Coney Island",
+                "formattedName": "coneyIsland",
+                "change": "-111",
+                "changePercentage": "-100%"
+            },
+            {
+                "name": "Canarsie",
+                "formattedName": "canarsie",
+                "change": "-100",
+                "changePercentage": "-100%"
+            },
+            {
+                "name": "Williamsburg",
+                "formattedName": "williamsburg",
+                "change": "-85",
+                "changePercentage": "-30.8%"
+            },
+            {
+                "name": "Greenpoint",
+                "formattedName": "greenpoint",
+                "change": "-62",
+                "changePercentage": "-100%"
+            }
+        ]
+    },
+    "2003": {
+        "positive": [
+            {
+                "name": "Park Slope",
+                "formattedName": "parkSlope",
+                "change": "+507",
+                "changePercentage": "+217.6%"
+            },
+            {
+                "name": "Crown Heights",
+                "formattedName": "crownHeights",
+                "change": "+340",
+                "changePercentage": "+all positive"
+            },
+            {
+                "name": "Brooklyn Heights",
+                "formattedName": "brooklynHeights",
+                "change": "+233",
+                "changePercentage": "+all positive"
+            },
+            {
+                "name": "Williamsburg",
+                "formattedName": "williamsburg",
+                "change": "+195",
+                "changePercentage": "+102.1%"
+            },
+            {
+                "name": "Bedford Stuyvesant",
+                "formattedName": "bedfordStuyvesant",
+                "change": "+164",
+                "changePercentage": "+all positive"
+            }
+        ],
+        "negative": [
+            {
+                "name": "East Flatbush",
+                "formattedName": "flatbush",
+                "change": "-135",
+                "changePercentage": "-43.5%"
+            },
+            {
+                "name": "Midwood",
+                "formattedName": "midwood",
+                "change": "-14",
+                "changePercentage": "-20.9%"
+            },
+            {
+                "name": "Clinton Hill",
+                "formattedName": "clintonHill",
+                "change": "-13",
+                "changePercentage": "-16.3%"
+            },
+            {
+                "name": "Dumbo",
+                "formattedName": "dumbo",
+                "change": "-7",
+                "changePercentage": "-15.2%"
+            },
+            {
+                "name": "Flatlands",
+                "formattedName": "flatlands",
+                "change": "-6",
+                "changePercentage": "-30%"
+            }
+        ]
+    },
+    "2004": {
+        "positive": [
+            {
+                "name": "Downtown Brooklyn",
+                "formattedName": "downtownBrooklyn",
+                "change": "+29",
+                "changePercentage": "+19.5%"
+            },
+            {
+                "name": "Dumbo",
+                "formattedName": "dumbo",
+                "change": "+27",
+                "changePercentage": "+69.2%"
+            },
+            {
+                "name": "Red Hook",
+                "formattedName": "redHook",
+                "change": "+25",
+                "changePercentage": "+36.2%"
+            },
+            {
+                "name": "East Flatbush",
+                "formattedName": "flatbush",
+                "change": "+16",
+                "changePercentage": "+9.1%"
+            },
+            {
+                "name": "Midwood",
+                "formattedName": "midwood",
+                "change": "+5",
+                "changePercentage": "+9.4%"
+            }
+        ],
+        "negative": [
+            {
+                "name": "Park Slope",
+                "formattedName": "parkSlope",
+                "change": "-364",
+                "changePercentage": "-49.2%"
+            },
+            {
+                "name": "Crown Heights",
+                "formattedName": "crownHeights",
+                "change": "-100",
+                "changePercentage": "-29.4%"
+            },
+            {
+                "name": "Brighton Beach",
+                "formattedName": "brightonBeach",
+                "change": "-79",
+                "changePercentage": "-65.8%"
+            },
+            {
+                "name": "Williamsburg",
+                "formattedName": "williamsburg",
+                "change": "-59",
+                "changePercentage": "-15.3%"
+            },
+            {
+                "name": "Brooklyn Heights",
+                "formattedName": "brooklynHeights",
+                "change": "-21",
+                "changePercentage": "-9%"
+            }
+        ]
+    },
+    "2005": {
+        "positive": [
+            {
+                "name": "Williamsburg",
+                "formattedName": "williamsburg",
+                "change": "+108",
+                "changePercentage": "+33%"
+            },
+            {
+                "name": "Cobble Hill",
+                "formattedName": "cobbleHill",
+                "change": "+97",
+                "changePercentage": "+154%"
+            },
+            {
+                "name": "Carroll Gardens",
+                "formattedName": "carrollGardens",
+                "change": "+95",
+                "changePercentage": "+146.2%"
+            },
+            {
+                "name": "Fort Greene",
+                "formattedName": "fortGreene",
+                "change": "+75",
+                "changePercentage": "+43.4%"
+            },
+            {
+                "name": "Brownsville",
+                "formattedName": "brownsville",
+                "change": "+72",
+                "changePercentage": "+105.9%"
+            }
+        ],
+        "negative": [
+            {
+                "name": "Crown Heights",
+                "formattedName": "crownHeights",
+                "change": "-86",
+                "changePercentage": "-35.8%"
+            },
+            {
+                "name": "East Flatbush",
+                "formattedName": "flatbush",
+                "change": "-28",
+                "changePercentage": "-14.7%"
+            },
+            {
+                "name": "Boerum Hill",
+                "formattedName": "boerumHill",
+                "change": "-13",
+                "changePercentage": "-18.1%"
+            },
+            {
+                "name": "Sheepshead Bay",
+                "formattedName": "sheepsheadBay",
+                "change": "-12",
+                "changePercentage": "-20.7%"
+            },
+            {
+                "name": "Prospect Heights",
+                "formattedName": "prospectHeights",
+                "change": "-9",
+                "changePercentage": "-11%"
+            }
+        ]
+    },
+    "2006": {
+        "positive": [
+            {
+                "name": "Gowanus",
+                "formattedName": "gowanus",
+                "change": "+81",
+                "changePercentage": "+137.3%"
+            },
+            {
+                "name": "Boerum Hill",
+                "formattedName": "boerumHill",
+                "change": "+81",
+                "changePercentage": "+137.3%"
+            },
+            {
+                "name": "Bushwick",
+                "formattedName": "bushwick",
+                "change": "+53",
+                "changePercentage": "+49.5%"
+            },
+            {
+                "name": "Canarsie",
+                "formattedName": "canarsie",
+                "change": "+48",
+                "changePercentage": "+92.3%"
+            },
+            {
+                "name": "Prospect Heights",
+                "formattedName": "prospectHeights",
+                "change": "+31",
+                "changePercentage": "+42.5%"
+            }
+        ],
+        "negative": [
+            {
+                "name": "Cobble Hill",
+                "formattedName": "cobbleHill",
+                "change": "-94",
+                "changePercentage": "-58.8%"
+            },
+            {
+                "name": "Carroll Gardens",
+                "formattedName": "carrollGardens",
+                "change": "-84",
+                "changePercentage": "-52.5%"
+            },
+            {
+                "name": "Brownsville",
+                "formattedName": "brownsville",
+                "change": "-81",
+                "changePercentage": "-57.9%"
+            },
+            {
+                "name": "Williamsburg",
+                "formattedName": "williamsburg",
+                "change": "-53",
+                "changePercentage": "-12.2%"
+            },
+            {
+                "name": "East New York",
+                "formattedName": "eastNewYork",
+                "change": "-36",
+                "changePercentage": "-26.1%"
+            }
+        ]
+    },
+    "2007": {
+        "positive": [
+            {
+                "name": "Coney Island",
+                "formattedName": "coneyIsland",
+                "change": "+243",
+                "changePercentage": "+154.8%"
+            },
+            {
+                "name": "Sunset Park",
+                "formattedName": "sunsetPark",
+                "change": "+73",
+                "changePercentage": "+83.9%"
+            },
+            {
+                "name": "Fort Greene",
+                "formattedName": "fortGreene",
+                "change": "+62",
+                "changePercentage": "+24.9%"
+            },
+            {
+                "name": "Williamsburg",
+                "formattedName": "williamsburg",
+                "change": "+60",
+                "changePercentage": "+15.7%"
+            },
+            {
+                "name": "Dumbo",
+                "formattedName": "dumbo",
+                "change": "+30",
+                "changePercentage": "+38%"
+            }
+        ],
+        "negative": [
+            {
+                "name": "Boerum Hill",
+                "formattedName": "boerumHill",
+                "change": "-91",
+                "changePercentage": "-65%"
+            },
+            {
+                "name": "Gowanus",
+                "formattedName": "gowanus",
+                "change": "-83",
+                "changePercentage": "-59.3%"
+            },
+            {
+                "name": "Bushwick",
+                "formattedName": "bushwick",
+                "change": "-52",
+                "changePercentage": "-32.5%"
+            },
+            {
+                "name": "Canarsie",
+                "formattedName": "canarsie",
+                "change": "-39",
+                "changePercentage": "-39%"
+            },
+            {
+                "name": "Bedford Stuyvesant",
+                "formattedName": "bedfordStuyvesant",
+                "change": "-32",
+                "changePercentage": "-18%"
+            }
+        ]
+    },
+    "2008": {
+        "positive": [
+            {
+                "name": "Park Slope",
+                "formattedName": "parkSlope",
+                "change": "+448",
+                "changePercentage": "+103.7%"
+            },
+            {
+                "name": "Brooklyn Heights",
+                "formattedName": "brooklynHeights",
+                "change": "+273",
+                "changePercentage": "+110.5%"
+            },
+            {
+                "name": "Red Hook",
+                "formattedName": "redHook",
+                "change": "+126",
+                "changePercentage": "+110.5%"
+            },
+            {
+                "name": "Fort Greene",
+                "formattedName": "fortGreene",
+                "change": "+105",
+                "changePercentage": "+33.8%"
+            },
+            {
+                "name": "Williamsburg",
+                "formattedName": "williamsburg",
+                "change": "+50",
+                "changePercentage": "+11.3%"
+            }
+        ],
+        "negative": [
+            {
+                "name": "Coney Island",
+                "formattedName": "coneyIsland",
+                "change": "-207",
+                "changePercentage": "-51.8%"
+            },
+            {
+                "name": "Sunset Park",
+                "formattedName": "sunsetPark",
+                "change": "-95",
+                "changePercentage": "-59.4%"
+            },
+            {
+                "name": "Brownsville",
+                "formattedName": "brownsville",
+                "change": "-63",
+                "changePercentage": "-100%"
+            },
+            {
+                "name": "Downtown Brooklyn",
+                "formattedName": "downtownBrooklyn",
+                "change": "-43",
+                "changePercentage": "-23.4%"
+            },
+            {
+                "name": "Greenpoint",
+                "formattedName": "greenpoint",
+                "change": "-40",
+                "changePercentage": "-21.4%"
+            }
+        ]
+    },
+    "2009": {
+        "positive": [
+            {
+                "name": "Crown Heights",
+                "formattedName": "crownHeights",
+                "change": "+105",
+                "changePercentage": "+77.8%"
+            },
+            {
+                "name": "Gowanus",
+                "formattedName": "gowanus",
+                "change": "+65",
+                "changePercentage": "+97%"
+            },
+            {
+                "name": "Flatlands",
+                "formattedName": "flatlands",
+                "change": "+9",
+                "changePercentage": "+300%"
+            },
+            {},
+            {}
+        ],
+        "negative": [
+            {
+                "name": "Brooklyn Heights",
+                "formattedName": "brooklynHeights",
+                "change": "-357",
+                "changePercentage": "-68.7%"
+            },
+            {
+                "name": "Park Slope",
+                "formattedName": "parkSlope",
+                "change": "-240",
+                "changePercentage": "-27.3%"
+            },
+            {
+                "name": "Fort Greene",
+                "formattedName": "fortGreene",
+                "change": "-210",
+                "changePercentage": "-50.5%"
+            },
+            {
+                "name": "Bedford Stuyvesant",
+                "formattedName": "bedfordStuyvesant",
+                "change": "-85",
+                "changePercentage": "-48%"
+            },
+            {
+                "name": "Clinton Hill",
+                "formattedName": "clintonHill",
+                "change": "-16",
+                "changePercentage": "-15.2%"
+            }
+        ]
+    },
+    "2010": {
+        "positive": [
+            {
+                "name": "Brooklyn Heights",
+                "formattedName": "brooklynHeights",
+                "change": "+177",
+                "changePercentage": "+108.6%"
+            },
+            {
+                "name": "Williamsburg",
+                "formattedName": "williamsburg",
+                "change": "+140",
+                "changePercentage": "+29.9%"
+            },
+            {
+                "name": "Fort Greene",
+                "formattedName": "fortGreene",
+                "change": "+82",
+                "changePercentage": "+39.8%"
+            },
+            {
+                "name": "Bedford Stuyvesant",
+                "formattedName": "bedfordStuyvesant",
+                "change": "+53",
+                "changePercentage": "+57.6%"
+            },
+            {
+                "name": "Brownsville",
+                "formattedName": "brownsville",
+                "change": "+53",
+                "changePercentage": "+all positive"
+            }
+        ],
+        "negative": [
+            {
+                "name": "Park Slope",
+                "formattedName": "parkSlope",
+                "change": "-231",
+                "changePercentage": "-36.1%"
+            },
+            {
+                "name": "Crown Heights",
+                "formattedName": "crownHeights",
+                "change": "-135",
+                "changePercentage": "-56.3%"
+            },
+            {
+                "name": "Clinton Hill",
+                "formattedName": "clintonHill",
+                "change": "-42",
+                "changePercentage": "-47.2%"
+            },
+            {
+                "name": "Flatlands",
+                "formattedName": "flatlands",
+                "change": "-6",
+                "changePercentage": "-50%"
+            },
+            {
+                "name": "Bergen Beach",
+                "formattedName": "bergenBeach",
+                "change": "+1",
+                "changePercentage": "+100%"
+            }
+        ]
+    },
+    "2011": {
+        "positive": [
+            {
+                "name": "Fort Greene",
+                "formattedName": "fortGreene",
+                "change": "+272",
+                "changePercentage": "+94.4%"
+            },
+            {
+                "name": "East New York",
+                "formattedName": "eastNewYork",
+                "change": "+102",
+                "changePercentage": "+175.9%"
+            },
+            {
+                "name": "Clinton Hill",
+                "formattedName": "clintonHill",
+                "change": "+73",
+                "changePercentage": "+155.3%"
+            },
+            {
+                "name": "Brownsville",
+                "formattedName": "brownsville",
+                "change": "+10",
+                "changePercentage": "+18.9%"
+            },
+            {
+                "name": "Flatlands",
+                "formattedName": "flatlands",
+                "change": "+10",
+                "changePercentage": "+166.7%"
+            }
+        ],
+        "negative": [
+            {
+                "name": "Brooklyn Heights",
+                "formattedName": "brooklynHeights",
+                "change": "-163",
+                "changePercentage": "-47.9%"
+            },
+            {
+                "name": "East Flatbush",
+                "formattedName": "flatbush",
+                "change": "-44",
+                "changePercentage": "-28.4%"
+            },
+            {
+                "name": "Gowanus",
+                "formattedName": "gowanus",
+                "change": "-42",
+                "changePercentage": "-23.9%"
+            },
+            {
+                "name": "Midwood",
+                "formattedName": "midwood",
+                "change": "-41",
+                "changePercentage": "-48.2%"
+            },
+            {
+                "name": "Park Slope",
+                "formattedName": "parkSlope",
+                "change": "-38",
+                "changePercentage": "-9.3%"
+            }
+        ]
+    },
+    "2012": {
+        "positive": [
+            {
+                "name": "Downtown Brooklyn",
+                "formattedName": "downtownBrooklyn",
+                "change": "+179",
+                "changePercentage": "+147.9%"
+            },
+            {
+                "name": "Gowanus",
+                "formattedName": "gowanus",
+                "change": "+126",
+                "changePercentage": "+94%"
+            },
+            {
+                "name": "Bedford Stuyvesant",
+                "formattedName": "bedfordStuyvesant",
+                "change": "+95",
+                "changePercentage": "+76%"
+            },
+            {
+                "name": "Red Hook",
+                "formattedName": "redHook",
+                "change": "+36",
+                "changePercentage": "+30.8%"
+            },
+            {
+                "name": "East Flatbush",
+                "formattedName": "flatbush",
+                "change": "+28",
+                "changePercentage": "+25.2%"
+            }
+        ],
+        "negative": [
+            {
+                "name": "Fort Greene",
+                "formattedName": "fortGreene",
+                "change": "-249",
+                "changePercentage": "-44.5%"
+            },
+            {
+                "name": "East New York",
+                "formattedName": "eastNewYork",
+                "change": "-92",
+                "changePercentage": "-57.5%"
+            },
+            {
+                "name": "Dumbo",
+                "formattedName": "dumbo",
+                "change": "-84",
+                "changePercentage": "-40.2%"
+            },
+            {
+                "name": "Williamsburg",
+                "formattedName": "williamsburg",
+                "change": "-48",
+                "changePercentage": "-8.2%"
+            },
+            {
+                "name": "Clinton Hill",
+                "formattedName": "clintonHill",
+                "change": "-20",
+                "changePercentage": "-16.7%"
+            }
+        ]
+    }
+}
